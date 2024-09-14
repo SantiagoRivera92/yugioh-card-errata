@@ -9240,10 +9240,10 @@
         "last_legal_print": "MRD"
     },
     {
-        "last_legal_text": "「黒き森のウィッチ」＋「ハイ・プリーステス」",
+        "last_legal_text": "\"Witch of the Black Forest\" + \"Lady of Faith\"",
         "name": "Musician King",
         "id": 56907389,
-        "last_legal_print": "DL4"
+        "last_legal_print": "MRD"
     },
     {
         "last_legal_text": "You can only activate this card when there is a face-up \"Don Zaloog\"(s) on your side of the field. You can Special Summon from your hand any of the cards that include \"Dark Scorpion\" in their card name, or are named \"Cliff the Trap Remover\". (You can only Special Summon up to 1 card with each card name.)",
@@ -10398,10 +10398,10 @@
         "last_legal_print": "YSDJ"
     },
     {
-        "last_legal_text": "「ミノタウルス」＋「ケンタウロス」",
+        "last_legal_text": "\"Battle Ox\" + \"Mystic Horseman\"",
         "name": "Rabid Horseman",
         "id": 94905343,
-        "last_legal_print": "DL4"
+        "last_legal_print": "DB2"
     },
     {
         "last_legal_text": "Activate only when your opponent declares an attack while they control 3 or more Attack Position monsters. Destroy all Attack Position monsters your opponent controls.",
@@ -13200,10 +13200,10 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "「時の魔術師」＋「ベビードラゴン」",
+        "last_legal_text": "\"Time Wizard\" + \"Baby Dragon\"",
         "name": "Thousand Dragon",
         "id": 41462083,
-        "last_legal_print": "DL4"
+        "last_legal_print": "DLG1"
     },
     {
         "last_legal_text": "Increase the original ATK and DEF of all face-up Level 2 Normal Monsters (except Tokens) on your side of the field by 1000 points until the End Phase. Destroy all Level 2 Normal Monsters on your side of the field during the End Phase.",
@@ -14460,7 +14460,7 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "チューナー＋チューナー以外の「Ｘ－セイバー」と名のついたモンスター１体以上\nこのカードがシンクロ召喚に成功した時、フィールド上に存在する魔法・罠カードを３枚まで選択して破壊する事ができる。",
+        "last_legal_text": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
         "name": "XX-Saber Hyunlei",
         "id": 2203790,
         "last_legal_print": "ABPF"
