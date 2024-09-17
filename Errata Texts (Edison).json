@@ -426,7 +426,7 @@
         "last_legal_print": "SOVR"
     },
     {
-        "last_legal_text": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.",
+        "last_legal_text": "When this card is Summoned, place 1 Spell Counter on a face-up card that you can place a Spell Counter on. When this card is destroyed by battle, you can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.",
         "name": "Apprentice Magician",
         "id": 9156135,
         "last_legal_print": "SDSC"
@@ -1320,7 +1320,7 @@
         "last_legal_print": "MRD"
     },
     {
-        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card. You can remove any number of Spell Counters from this card to destroy 1 face-up monster on the field with ATK equal to or less than 700 x the number of counters you removed.",
         "name": "Blast Magician",
         "id": 21051146,
         "last_legal_print": "SDSC"
@@ -1962,12 +1962,6 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
-        "name": "Chimaera, the Master of Beasts",
-        "id": 501000006,
-        "last_legal_print": "WCPS"
-    },
-    {
         "last_legal_text": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(This monster is always treated as a \"Phantom Beast\" monster.)\nWhen this card is destroyed, you can select and Special Summon either \"Berfomet\" or \"Gazelle the King of Mythical Beasts\" from your Graveyard.",
         "name": "Chimera the Flying Mythical Beast",
         "id": 4796100,
@@ -2460,7 +2454,7 @@
         "last_legal_print": "DP07"
     },
     {
-        "last_legal_text": "FLIP: Excavate the top 2 cards of your Deck, add 1 of them to your hand, then place the other on the bottom of your Deck.",
+        "last_legal_text": "FLIP: Pick up 2 cards from the top of your Deck. Select 1 of those cards and add it to your hand, and place the other card on the bottom of your Deck.",
         "name": "Crystal Seer",
         "id": 82099401,
         "last_legal_print": "SDSC"
@@ -3138,7 +3132,7 @@
         "last_legal_print": "DPYG"
     },
     {
-        "last_legal_text": "If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; Discard 1 random card from your opponent's hand.",
+        "last_legal_text": "When this card is Normal Summoned, place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card. It gains 300 ATK for each Spell Counter on it. Once per turn, you can remove 2 Spell Counters from this card to make your opponent discard 1 random card.",
         "name": "Dark Red Enchanter",
         "id": 45462639,
         "last_legal_print": "SDSC"
@@ -3300,7 +3294,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
+        "last_legal_text": "Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.",
         "name": "Darkness Approaches",
         "id": 80168720,
         "last_legal_print": "SRL"
@@ -3834,7 +3828,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Once per turn: You can target 1 face-up Spell Card on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+        "last_legal_text": "Once per turn, you can remove 1 Spell Counter from anywhere on the field to return 1 face-up Spell Card to its owner's hand.",
         "name": "Disenchanter",
         "id": 76137614,
         "last_legal_print": "SDSC"
@@ -4758,7 +4752,7 @@
         "last_legal_print": "SOI"
     },
     {
-        "last_legal_text": "You can Special Summon this card (from your hand or Graveyard) by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. If Summoned this way: Target 1 Spell Card in your Graveyard; add that target to your hand. Once per turn: You can discard 1 Spell Card, then target 1 card on the field; destroy that target.",
+        "last_legal_text": "You can Special Summon this card from your hand or Graveyard by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. When you do, add 1 Spell Card from your Graveyard to your hand. Once per turn, you can discard 1 Spell Card to destroy 1 card on the field.",
         "name": "Endymion, the Master Magician",
         "id": 40732515,
         "last_legal_print": "SDSC"
@@ -5124,10 +5118,10 @@
         "last_legal_print": "LOD"
     },
     {
-        "last_legal_text": "Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+        "last_legal_text": "Field Spell Cards cannot be destroyed. Also, a new Field Spell Card cannot be activated. You can only control 1 face-up \"Field Barrier\".",
         "name": "Field Barrier",
         "id": 7153114,
-        "last_legal_print": "SDSC"
+        "last_legal_print": "SDZW"
     },
     {
         "last_legal_text": "When this card is Normal or Special Summoned, select 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck.",
@@ -5244,7 +5238,7 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "last_legal_text": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (If it's a tie, you get to choose.)",
         "name": "Fissure",
         "id": 66788016,
         "last_legal_print": "SDSC"
@@ -6594,10 +6588,10 @@
         "last_legal_print": "CSOC"
     },
     {
-        "last_legal_text": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 face-up Trap Card on the field; destroy that target.",
+        "last_legal_text": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to destroy 1 face-up Trap Card.",
         "name": "Hannibal Necromancer",
         "id": 5640330,
-        "last_legal_print": "SDSC"
+        "last_legal_print": "PTDN"
     },
     {
         "last_legal_text": "You can send 1 Level 8 or higher monster from your hand to the Graveyard and Special Summon this card. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.",
@@ -8178,7 +8172,7 @@
         "last_legal_print": "SDZW"
     },
     {
-        "last_legal_text": "If you control a Spellcaster-Type monster: Inflict 200 damage to your opponent for each Spellcaster-Type monster you currently control. During your Draw Phase, if this card is in your Graveyard, instead of conducting your normal draw: You can add this card from your Graveyard to your hand.",
+        "last_legal_text": "Activate only while you control a Spellcaster-Type monster. Inflict 200 damage to your opponent for each Spellcaster-Type monster you control. If this card is in your Graveyard, you can add it to your hand instead of conducting your normal draw during your Draw Phase.",
         "name": "Magical Blast",
         "id": 91819979,
         "last_legal_print": "SDSC"
@@ -8226,7 +8220,7 @@
         "last_legal_print": "DP2"
     },
     {
-        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 200 ATK for each Spell Counter on it. You can remove 2 Spell Counters from this card, then target 1 monster on the field; destroy that target.",
+        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card. This card gains 200 ATK for each Spell Counter on it. You can remove 2 Spell Counters from this card to destroy 1 monster on the field.",
         "name": "Magical Marionette",
         "id": 8034697,
         "last_legal_print": "SDSC"
@@ -8280,7 +8274,7 @@
         "last_legal_print": "MRD"
     },
     {
-        "last_legal_text": "When a Spellcaster-Type monster declares an attack: Each player Special Summons 1 Spellcaster-Type monster with 2000 or less ATK from their Deck in Attack Position.",
+        "last_legal_text": "Activate only when a Spellcaster-Type monster declares an attack. Each player Special Summons 1 Spellcaster-Type monster with 2000 or less ATK from their Deck in face-up Attack Position.",
         "name": "Magician's Circle",
         "id": 50755,
         "last_legal_print": "SDSC"
@@ -8292,7 +8286,7 @@
         "last_legal_print": "CP08"
     },
     {
-        "last_legal_text": "If you control 2 or more Attack Position Spellcaster-Type monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, but other Spellcaster-Type monsters you control cannot attack this turn.",
+        "last_legal_text": "Activate only while you control 2 or more face-up Attack Position Spellcaster-Type monsters; select 1 of them. That monster's ATK becomes 3000 until the end of this turn. Other Spellcaster-Type monsters you control cannot attack this turn.",
         "name": "Magicians Unite",
         "id": 36045450,
         "last_legal_print": "SDSC"
@@ -8418,10 +8412,10 @@
         "last_legal_print": "SDZW"
     },
     {
-        "last_legal_text": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "last_legal_text": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard, you can pay 500 Life Points to return this card to the top of your Deck.",
         "name": "Malevolent Nuzzler",
         "id": 99597615,
-        "last_legal_print": "SDSC"
+        "last_legal_print": "DT01"
     },
     {
         "last_legal_text": "During your opponent's Standby Phase, send 1 card from the top of their Deck to the Graveyard for each \"Malice Ascendant\" in your Graveyard.",
@@ -8634,7 +8628,7 @@
         "last_legal_print": "DR3"
     },
     {
-        "last_legal_text": "You can Tribute this card, then target 1 face-up Continuous Spell or Continuous Trap Card on the field; destroy that target.",
+        "last_legal_text": "You can Tribute this card to destroy 1 face-up Continuous Spell or Continuous Trap Card on the field.",
         "name": "Mei-Kou, Master of Barriers",
         "id": 47731128,
         "last_legal_print": "SDSC"
@@ -8922,7 +8916,7 @@
         "last_legal_print": "TU02"
     },
     {
-        "last_legal_text": "The equipped monster cannot be destroyed by battle.",
+        "last_legal_text": "The equipped monster cannot be destroyed by battle. (Damage calculation is applied normally.)",
         "name": "Mist Body",
         "id": 47529357,
         "last_legal_print": "SDSC"
@@ -9942,7 +9936,7 @@
         "last_legal_print": "MFC"
     },
     {
-        "last_legal_text": "Activate this card by placing 3 Spell Counters on this card. Once per turn, during your turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; remove 1 Spell Counter from this card, and if you do, place 1 Spell Counter on that target. When the last Spell Counter(s) is removed from this card, destroy it.",
+        "last_legal_text": "After activation, place 3 Spell Counters on this card. During each of your turns you can move 1 Spell Counter from this card to another face-up card that you can place a Spell Counter on. When there are no Spell Counters on this card, destroy it.",
         "name": "Pitch-Black Power Stone",
         "id": 34029630,
         "last_legal_print": "SDSC"
@@ -10986,7 +10980,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
+        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card (max. 3). You can remove 3 Spell Counters from this card to draw 1 card.",
         "name": "Royal Magical Library",
         "id": 70791313,
         "last_legal_print": "SDSC"
@@ -11520,7 +11514,7 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card (max. 3). You can Tribute this card with 3 Spell Counters on it to Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
+        "last_legal_text": "Each time you or your opponent activates 1 Spell Card, put 1 Spell Counter on this card (max. 3). By Tributing this card with 3 Spell Counters on it, Special Summon 1 \"Dark Magician\" from your hand, Deck, or Graveyard.",
         "name": "Skilled Dark Magician",
         "id": 73752131,
         "last_legal_print": "SDSC"
@@ -11844,7 +11838,7 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+        "last_legal_text": "Place 1 Spell Counter on a face-up card that you can place a Spell Counter on. Then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
         "name": "Spell Power Grasp",
         "id": 75014062,
         "last_legal_print": "SDSC"
@@ -12270,7 +12264,7 @@
         "last_legal_print": "SDY"
     },
     {
-        "last_legal_text": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell Card; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
+        "last_legal_text": "This card cannot be Tributed. When this card is Normal or Flip Summoned, it is changed to Defense Position. Once per turn, you can discard 1 Spell Card to Special Summon 1 Level 4 monster from your Deck. It cannot attack this turn.",
         "name": "Summoner Monk",
         "id": 423585,
         "last_legal_print": "SDSC"
@@ -13200,7 +13194,7 @@
         "last_legal_print": "CRMS"
     },
     {
-        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.",
+        "last_legal_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card. When the 4th Spell Counter is placed on this card, destroy this card and inflict 3000 damage to the player that activated the Spell Card at that time.",
         "name": "Tower of Babel",
         "id": 94256039,
         "last_legal_print": "SDSC"
