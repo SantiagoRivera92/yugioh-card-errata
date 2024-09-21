@@ -54,16 +54,10 @@
         "last_legal_print": "IOC"
     },
     {
-        "last_legal_text": "This card's name is treated as \"Umi\". Reduce the Level of all WATER monsters in both players<span style",
+        "last_legal_text": "This card's name is treated as \"Umi\". Reduce the Level of all WATER monsters in both players hands and on the field by 1. All WATER monsters gain 200 ATK and DEF.",
         "name": "A Legendary Ocean",
         "id": 295517,
         "last_legal_print": "RP02"
-    },
-    {
-        "last_legal_text": "Tribute 1 face-up Attack Position Level 2 or lower monster you control. Return all face-up Level 7 or higher Special Summoned monsters to the hand.",
-        "name": "A Major Upset",
-        "id": 32207100,
-        "last_legal_print": "ANPR"
     },
     {
         "last_legal_text": "When you Normal Summon this card, and during each of your Standby Phases, select 1 Set card on your opponent's side of the field. Pick it up and look at it, then return it to its original position.",
@@ -84,7 +78,7 @@
         "last_legal_print": "SDRL"
     },
     {
-        "last_legal_text": "<center>DEF/1000</center>",
+        "last_legal_text": "DEF/1000",
         "name": "Abaki",
         "id": 12694768,
         "last_legal_print": "YSDS"
@@ -210,7 +204,7 @@
         "last_legal_print": "DT01"
     },
     {
-        "last_legal_text": "Ofrece 2 monstruos en tu Campo como Sacrifico para infligir 1200 puntos de dano a los Life Points de tu adversairo.",
+        "last_legal_text": "Tribute 2 monsters on your side of the field to inflict 1200 points of damage to your opponent's Life Points.",
         "name": "Amazoness Archer",
         "id": 91869203,
         "last_legal_print": "DB1"
@@ -228,7 +222,7 @@
         "last_legal_print": "DLG1"
     },
     {
-        "last_legal_text": "All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.\n\n\n\n<hr /><P align",
+        "last_legal_text": "All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.\n\n\n\nATK/1500 DEF/1300",
         "name": "Amazoness Fighter",
         "id": 55821894,
         "last_legal_print": "DR1"
@@ -372,10 +366,10 @@
         "last_legal_print": "SD10"
     },
     {
-        "last_legal_text": "Esta carta no puede ser Invocada de modo Especial. Durante una batalla entre este monstruo atacante y un monstruo en Posición de Defensa cuya DEF sea menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversairo. Si esta carta ataca, tu adversario no puede activar ninguna Carta Mágica o de Trampa hasta el final del Damage Step.",
+        "last_legal_text": "This card cannot be Special Summoned. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.",
         "name": "Ancient Gear Golem",
         "id": 83104731,
-        "last_legal_print": "SD10"
+        "last_legal_print": "DR3"
     },
     {
         "last_legal_text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step.",
@@ -406,12 +400,6 @@
         "name": "Ancient Lamp",
         "id": 54912977,
         "last_legal_print": "DPKB"
-    },
-    {
-        "last_legal_text": "Invoca de modo Especial 1 Monstruo Normal de nivel 5 o mayor de tu mano.",
-        "name": "Ancient Rules",
-        "id": 10667321,
-        "last_legal_print": "STON"
     },
     {
         "last_legal_text": "1 LIGHT Tuner + 1 or more non-Tuner monsters\nWhile your Life Points are higher than your opponent's, this card gains ATK equal to the difference. While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card.",
@@ -546,7 +534,7 @@
         "last_legal_print": "LODT"
     },
     {
-        "last_legal_text": "\"Queen's Knight\" + \"Jack's Knight\" + \"King's Knight\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).",
+        "last_legal_text": "\"Queen's Knight\" + \"Jack's Knight\" + \"King's Knight\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monsters effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).",
         "name": "Arcana Knight Joker",
         "id": 6150044,
         "last_legal_print": "ANPR"
@@ -684,10 +672,10 @@
         "last_legal_print": "PGD"
     },
     {
-        "last_legal_text": "FLIP: Add 1 \"Guardian\" card from your Deck to your hand, except \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", or \"The Reliable Guardian\".",
+        "last_legal_text": "FLIP: Add 1 card that includes \"Guardian\" in its card name from your Deck to your hand. You cannot add \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of of the Labyrinth\", or \"The Reliable Guardian\".",
         "name": "Arsenal Summoner",
         "id": 85489096,
-        "last_legal_print": "DCR"
+        "last_legal_print": "DR1"
     },
     {
         "last_legal_text": "Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon.",
@@ -750,7 +738,7 @@
         "last_legal_print": "PSV"
     },
     {
-        "last_legal_text": "Sacrifica 1 \"Ciber Dragón\" en tu Campo para activar esta carta. Invoca mediante una Invocación Especial 1 \"Ciber Dragón Barrera\" de tu mano o Deck.",
+        "last_legal_text": "Tribute 1 \"Cyber Dragon\". Special Summon 1 \"Cyber Barrier Dragon\" from your hand or Deck.",
         "name": "Attack Reflector Unit",
         "id": 91989718,
         "last_legal_print": "DP04"
@@ -792,10 +780,10 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Un monstruo equipado con esta carta aumenta su ATK en 1000 puntos. Cuando esta carta es mandada del Campo al Cementerio, ofrece 1 monstruo de tu Campo como Sacrificio para devolver esta carta a la parte superior de tu Deck.",
+        "last_legal_text": "The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard, you can Tribute 1 monster to return this card to the top of the Deck.",
         "name": "Axe of Despair",
         "id": 40619825,
-        "last_legal_print": "SYE"
+        "last_legal_print": "RP01"
     },
     {
         "last_legal_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Insect-Type monster from your Graveyard. When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard.",
@@ -906,7 +894,7 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
+        "last_legal_text": "Activate only when a cards effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
         "name": "Barrel Behind the Door",
         "id": 78783370,
         "last_legal_print": "RP02"
@@ -994,12 +982,6 @@
         "name": "Bazoo the Soul-Eater",
         "id": 40133511,
         "last_legal_print": "SDDE"
-    },
-    {
-        "last_legal_text": "A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Beast Fangs",
-        "id": 46009906,
-        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "You can Normal Summon or Set this card without Tributing. If you do, its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon this card. When you do, destroy all cards your opponent controls.",
@@ -1134,7 +1116,7 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Si este monstruo boca abajo es objetivo de una Carta Mágica, niega la activación de aquella y cambia esta carta a Posición de Defensa boca arriba. Si esta carta es atacada, es cambiala a Posición de Ataque al final del Damage Step.",
+        "last_legal_text": "If this 1 face-down monster is targeted by a Spell Card, negate that card's activation and change this card to face-up Defense Position. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
         "name": "Big Shield Gardna",
         "id": 65240384,
         "last_legal_print": "DL09"
@@ -1236,7 +1218,7 @@
         "last_legal_print": "POTD"
     },
     {
-        "last_legal_text": "1 Cantante + 1 o más monstruos que no sean Cantantes\nCuando Invocas por Sincronía a esta carta, puedes destruir todas las cartas en el Campo. Una vez por turno, puedes retirar del juego 1 monstruo de Tipo Planta en tu Cementerio para cambiar a Posición de Ataque boca arriba a un monstruo que controle tu adversario, y reducir a 0 su ATK hasta la End Phase.",
+        "last_legal_text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned, you can destroy all cards on the field. Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.",
         "name": "Black Rose Dragon",
         "id": 73580471,
         "last_legal_print": "CSOC"
@@ -1248,10 +1230,10 @@
         "last_legal_print": "CRMS"
     },
     {
-        "last_legal_text": "\"Cráneo Convocado\" + \"Dragón Negro de Ojos Rojos\"",
+        "last_legal_text": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n\n\n\n(This card is always treated as an \"Archfiend\" card.)",
         "name": "Black Skull Dragon",
         "id": 11901678,
-        "last_legal_print": "DB1"
+        "last_legal_print": "MRD"
     },
     {
         "last_legal_text": "When this card is selected as an attack target by your opponent's monster, this card is changed to Defense Position.",
@@ -1266,7 +1248,7 @@
         "last_legal_print": "IOC"
     },
     {
-        "last_legal_text": "Cuando un monstruo \"Alanegra\" es Invocado de Modo Normal en tu Campo, puedes añadir a tu mano, desde tu Cementerio, 1 monstruo \"Alanegra\" que tenga un ATK menor al de ese monstruo.",
+        "last_legal_text": "When a \"Blackwing\" monster is Normal Summoned to your side of the Field, you can add 1 \"Blackwing\" monster from your Deck to your hand that has less ATK than that monster.",
         "name": "Black Whirlwind",
         "id": 91351370,
         "last_legal_print": "RGBT"
@@ -1404,12 +1386,6 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Un espíritu de madera perverso ahora ardiendo en llamas. Su ataque de fuego es poderoso, pero pronto no será más que cenizas.",
-        "name": "Blazing Inpachi",
-        "id": 5464695,
-        "last_legal_print": "SD3"
-    },
-    {
         "last_legal_text": "During your Standby Phase, roll 1 six-sided die once. Destroy any monsters whose Level is equal to the number rolled. (If the number is \"6\", destroy all face-up Level 6 or higher monsters on the field.)",
         "name": "Blind Destruction",
         "id": 32015116,
@@ -1464,7 +1440,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "Esta carta no puede ser Invocada mediante una Invocación Normal o Colocada. Esta carta no puede ser Invocada mediante una Invocación Especial excepto Sacrificando 1 \"Dragón de Ojos Azules Definitivo\" que controles. Esta carta gana 300 ATK por cada monstruo de Tipo Dragón en tu Cementerio. Puedes negar los efectos de Cartas Mágicas, de Trampa y Monstruos de Efecto que tengan como objetivo a esta carta.",
+        "last_legal_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Blue-Eyes Ultimate Dragon\" you control. This card gains 300 ATK for each Dragon-Type monster in your Graveyard. You can negate the effects of Spells, Traps, and Effect Monsters that target this card.",
         "name": "Blue-Eyes Shining Dragon",
         "id": 53347303,
         "last_legal_print": "RP02"
@@ -1476,10 +1452,10 @@
         "last_legal_print": "RP01"
     },
     {
-        "last_legal_text": "<center>DEF/3800</center>",
+        "last_legal_text": "DEF/3800",
         "name": "Blue-Eyes Ultimate Dragon",
         "id": 23995346,
-        "last_legal_print": "DPKB"
+        "last_legal_print": "RP01"
     },
     {
         "last_legal_text": "This card can only be summoned by a Flip Summon. If summoned by a Normal Summon, the card is destroyed. If your opponent has 1 or more monsters under his/her control, the ATK of this card is decreased by 1000 points.",
@@ -1524,12 +1500,6 @@
         "last_legal_print": "PGD"
     },
     {
-        "last_legal_text": "A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Book of Secret Arts",
-        "id": 91595718,
-        "last_legal_print": "LOB"
-    },
-    {
         "last_legal_text": "Flip 1 face-down monster on the field into face-up Attack Position.",
         "name": "Book of Taiyou",
         "id": 38699854,
@@ -1564,12 +1534,6 @@
         "name": "Bountiful Artemis",
         "id": 32296881,
         "last_legal_print": "DR04"
-    },
-    {
-        "last_legal_text": "During each of your Standby Phases, inflict 600 points of damage to your opponent's Life Points.",
-        "name": "Bowganian",
-        "id": 52090844,
-        "last_legal_print": "IOC"
     },
     {
         "last_legal_text": "Pay 800 Life Points, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
@@ -1626,22 +1590,16 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "Sólo puedes activar esta carta cuando haya un \"Héroe Elemental Bubbleman\" boca arriba en el Campo. Cambia 1 \"Héroe Elemental Bubbleman\" en Posición de Ataque boca arriba en tu Campo y 1 monstruo en Posición de Ataque boca arriba en el Campo de tu adversario a Posición de Defensa. Sacrifica el \"Héroe Elemental Bubbleman\" cambiado a Posición de Defensa e Invoca mediante una Invocación Especial 1 monstruo de tu mano que incluya \"HÉROE Elemental\" en su nombre.",
+        "last_legal_text": "Activate only while there is a face-up \"Elemental Hero Bubbleman\" on the field. Change 1 face-up Attack Position \"Elemental Hero Bubbleman\" that you control and 1 monster in face-up Attack Position your opponent controls to Defense Position. Tribute the \"Elemental Hero Bubbleman\" that was changed to Defense Position and Special Summon 1 \"Elemental Hero\" monster from your hand.",
         "name": "Bubble Shuffle",
         "id": 61968753,
-        "last_legal_print": "CRV"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
         "name": "Bubonic Vermin",
         "id": 6104968,
         "last_legal_print": "DB1"
-    },
-    {
-        "last_legal_text": "Cada monstruo boca arriba que controle tu adversario pierde 100 ATK x su Nivel.",
-        "name": "Burden of the Mighty",
-        "id": 44947065,
-        "last_legal_print": "SDWS"
     },
     {
         "last_legal_text": "Select up to 3 removed from play monsters, and return them to their owners' Graveyards.",
@@ -1692,7 +1650,7 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "You can choose to negate the activation of an Effect Monster's effect that activates when a monster is Normal Summoned (including itself). If you do, that Effect Monster's controller draws 1 card.",
+        "last_legal_text": "You can choose to negate the activation of an Effect Monsters effect that activates when a monster is Normal Summoned (including itself). If you do, that Effect Monster's controller draws 1 card.",
         "name": "By Order of the Emperor",
         "id": 35011819,
         "last_legal_print": "SDDE"
@@ -1968,10 +1926,10 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta sólo puede ser Invocada de Modo Especial retirando del juego 1 monstruo de LUZ y 1 monstruo de OSCURIDAD en tu Cementerio. Puedes pagar 1000 Life Points para mandar al Cementerio todas las cartas en las manos de ambos jugadores y en el Campo. Inflige 300 puntos de daño a los Life Points de tu adversario por cada carta mandada al Cementerio por este efecto.",
+        "last_legal_text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.",
         "name": "Chaos Emperor Dragon - Envoy of the End",
         "id": 82301904,
-        "last_legal_print": "DPKB"
+        "last_legal_print": "JUMP"
     },
     {
         "last_legal_text": "You can only activate this card if 7 or more of your cards are currently removed from play. Destroy all Monster Cards on the field.",
@@ -2292,12 +2250,6 @@
         "last_legal_print": "CRV"
     },
     {
-        "last_legal_text": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, and you take no Battle Damage from that battle.",
-        "name": "Consecrated Light",
-        "id": 2980764,
-        "last_legal_print": "ABPF"
-    },
-    {
         "last_legal_text": "Send all \"Chrysalis\" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.",
         "name": "Contact",
         "id": 16616620,
@@ -2370,12 +2322,6 @@
         "last_legal_print": "CDIP"
     },
     {
-        "last_legal_text": "Manda todas las cartas en tu Zona de Cartas Mágicas y de Trampa al Cementerio. Coloca tantos monstruos \"Bestia de Cristal\" como sea posible desde tu Cementerio en tu Zona de Cartas Mágicas y de Trampa, boca arriba, como Cartas Mágicas Continuas. Durante la End Phase, destruye todas las cartas \"Bestia de Cristal\" boca arriba que controles.",
-        "name": "Counter Gem",
-        "id": 11136371,
-        "last_legal_print": "DP07"
-    },
-    {
         "last_legal_text": "If your opponent's monster attacks a monster on your side of the field, you can activate this card during the Damage Step. Your attacked monster gains ATK equal to the ATK of 1 other face-up monster on your side of the field during the Damage Step only.",
         "name": "Covering Fire",
         "id": 74458486,
@@ -2386,12 +2332,6 @@
         "name": "Crab Turtle",
         "id": 91782219,
         "last_legal_print": "SRL"
-    },
-    {
-        "last_legal_text": "When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.",
-        "name": "Crass Clown",
-        "id": 93889755,
-        "last_legal_print": "MRD"
     },
     {
         "last_legal_text": "Each player selects 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
@@ -2562,12 +2502,6 @@
         "last_legal_print": "IOC"
     },
     {
-        "last_legal_text": "Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.",
-        "name": "Curse of Fiend",
-        "id": 12470447,
-        "last_legal_print": "SRL"
-    },
-    {
         "last_legal_text": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
         "name": "Curse of Royal",
         "id": 2926176,
@@ -2578,12 +2512,6 @@
         "name": "Curse of the Masked Beast",
         "id": 94377247,
         "last_legal_print": "RP02"
-    },
-    {
-        "last_legal_text": "When this card is destroyed by battle and sent to the Graveyard, select 2 Set Spell or Trap Cards on the field. While this card is in the Graveyard, the selected cards cannot be activated.",
-        "name": "Cursed Fig",
-        "id": 18489208,
-        "last_legal_print": "CSOC"
     },
     {
         "last_legal_text": "Discard 1 Spell Card. Negate the activation and effect of a Spell Card and destroy it. Your opponent cannot activate Spell Cards with that name during the rest of this Duel.",
@@ -2634,10 +2562,10 @@
         "last_legal_print": "JUMP"
     },
     {
-        "last_legal_text": "\"Cíber Dragón\" + \"Cíber Dragón\" + \"Cíber Dragón\"\nUna Invocación por Fusión de esta carta sólo se puede realizar con los Monstruos Material de Fusión nombrados arriba. Durante una batalla en la que esta carta esté atacando a un monstruo en Posición de Defensa cuya DEF sea inferior al ATK de esta carta, inflige la diferencia como daño de batalla a los Life Points de tu adversario.",
+        "last_legal_text": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
         "name": "Cyber End Dragon",
         "id": 1546123,
-        "last_legal_print": "DP04"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "A jet-powered hawk that travels at the speed of sound.\n\n\n(This card is not treated as a \"Cyber\" card.)",
@@ -2724,10 +2652,10 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "\"Cíber Dragón\" + \"Cíber Dragón\"\nUna Invocación por Fusion de esta carta sólo se puede realizar con los Monstruos Material de Fusión nombrados arriba. Esta carta puede atacar dos veces durante la misma Battle Phase.",
+        "last_legal_text": "\"Cyber Dragon\" + \"Cyber Dragon\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card can attack twice during the same Battle Phase.",
         "name": "Cyber Twin Dragon",
         "id": 74157028,
-        "last_legal_print": "DP04"
+        "last_legal_print": "CRV"
     },
     {
         "last_legal_text": "You can use 1 of the following 3 effects:\n● When this card is selected as an attack target by an opponent's monster, you can remove this card from play to draw 1 card and end the Battle Phase.\n● You can remove from play this card and 1 face-up monster you control, then draw 2 cards.\n● You can remove from play this card and 1 card from your hand, and place 1 card from your Graveyard on top of your Deck.",
@@ -2844,7 +2772,7 @@
         "last_legal_print": "DP05"
     },
     {
-        "last_legal_text": "Sólo puedes activar esta carta cuando un monstruo en tu Campo que incluya \"Héroe Elemental\" en su nombre es retirado del Campo. Añade 1 monstruo de tu Deck a tu mano que incluya \"Héroe del Destino\" en su nombre y cuyo nivel sea igual o menor que el del monstruo \"Héroe Elemental\".",
+        "last_legal_text": "Activate only when an \"Elemental Hero\" monster you control is removed from the field. Add 1 \"Destiny Hero\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental Hero\" monster's Level.",
         "name": "D - Time",
         "id": 99075257,
         "last_legal_print": "DP05"
@@ -2856,10 +2784,10 @@
         "last_legal_print": "SKE"
     },
     {
-        "last_legal_text": "\"Des Rana\" + \"Des Rana\" + \"Des Rana\"\nUna Invocación de Fusión de esta carta sólo se puede realizar con los Monstruos Material de Fusión nombrados arriba. Aumenta el ATK de esta carta en 500 puntos por cada \"Rana Arbórea\" en tu Cementerio.",
+        "last_legal_text": "\"Des Frog\" + \"Des Frog\" + \"Des Frog\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each \"Treeborn Frog\" in your Graveyard.",
         "name": "D.3.S. Frog",
         "id": 9910360,
-        "last_legal_print": "SOI"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "When this card is destroyed by battle with an opponent's monster, remove from play that monster and this card.",
@@ -3054,7 +2982,7 @@
         "last_legal_print": "SJCS"
     },
     {
-        "last_legal_text": "A Fiend-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+        "last_legal_text": "Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points.",
         "name": "Dark Energy",
         "id": 4614116,
         "last_legal_print": "LOB"
@@ -3114,7 +3042,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that targets a face-up DARK monster, and destroy that card.",
+        "last_legal_text": "Negate the activation of a Spell Card, Trap Card, or Effect Monsters effect that targets a face-up DARK monster, and destroy that card.",
         "name": "Dark Illusion",
         "id": 5562461,
         "last_legal_print": "PTDN"
@@ -3156,7 +3084,7 @@
         "last_legal_print": "PP01"
     },
     {
-        "last_legal_text": "Esta carta gana 300 ATK por cada \"Mago Oscuro\" o \"Mago del Caos Oscuro\" en el Cementerio de cualquier jugador.",
+        "last_legal_text": "This card gains 300 ATK for each \"Dark Magician\" or \"Magician of Black Chaos\" in either player's Graveyard.",
         "name": "Dark Magician Girl",
         "id": 38033121,
         "last_legal_print": "DPYG"
@@ -3312,16 +3240,10 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Cada jugador roba 1 carta. Luego, cada jugador descarta 1 carta.",
+        "last_legal_text": "Each player draws 1 card. Then each player discards 1 card.",
         "name": "Dark World Dealings",
         "id": 74117290,
         "last_legal_print": "STON"
-    },
-    {
-        "last_legal_text": "During your End Phase, if you discard a Monster Card(s) to the Graveyard because you had more than 6 cards in your hand, you can Special Summon 1 of those monsters.",
-        "name": "Dark World Grimoire",
-        "id": 61623148,
-        "last_legal_print": "PTDN"
     },
     {
         "last_legal_text": "Select 1 face-down card on the field and destroy it, and after that, select 1 card from your hand and discard it.",
@@ -3360,13 +3282,13 @@
         "last_legal_print": "SDRL"
     },
     {
-        "last_legal_text": "Mientras esta carta esté en tu Cementerio, aumenta tus Life Points en 200 puntos durante cada una de tus Standby Phases.",
+        "last_legal_text": "As long as this card is in the Graveyard, increase your Life Points by 200 points during each of your Standby Phases.",
         "name": "Darklord Marie",
         "id": 57579381,
         "last_legal_print": "DB1"
     },
     {
-        "last_legal_text": "Cualquier efecto que haga que tu adversario gane Life Points en vez de esto le inflige esa cantidad de daño.",
+        "last_legal_text": "Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.",
         "name": "Darklord Nurse Reficule",
         "id": 67316075,
         "last_legal_print": "GX05"
@@ -3522,13 +3444,13 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Sólo puedes activar esta carta cuando hayan 3 \"Des Rana\" boca arriba en tu Campo. Destruye todas las cartas en el Campo de tu adversario.",
+        "last_legal_text": "Activate only while you control 3 face-up \"Des Frogs\". Destroy all cards your opponent controls.",
         "name": "Des Croaking",
         "id": 44883830,
-        "last_legal_print": "CRV"
+        "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a tu \"Vampiro Orchis\" como una Carta Mágica de Equipo O separar el equipamiento e Invocar mediante una Invocación Especial esta carta boca arriba en Posición de Ataque. Cuando esta carta es equipada por el efecto de esta carta, cada vez que el monstruo equipado destruye 1 monstruo como resultado de una batalla, Invoca mediante una Invocación Especial 1 \"Ficha de Planta Malvada\" (Tipo Planta/TIERRA/Nivel 1/ATK 800/DEF 800). (1 monstruo solo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta es destruido en batalla, se destruye esta carta en su lugar).",
+        "last_legal_text": "Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your \"Vampire Orchis\" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 \"Wicked Plant Token\" (Plant-Type/EARTH/1 Star/ATK 800/DEF 800). (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)",
         "name": "Des Dendle",
         "id": 12965761,
         "last_legal_print": "DR1"
@@ -3540,10 +3462,10 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Cuando esta carta es Invocada con éxito mediante una Invocación de Sacrificio, puedes Invocar mediante una Invocación Especial \"Des Rana\"/s de tu mano o Deck hasta el mismo número de \"T.A.D.P.O.L.E.\"/s en tu Cementerio.",
+        "last_legal_text": "When this card is Tribute Summoned, you can Special Summon \"Des Frog\"(s) from your hand or Deck up to the number of \"T.A.D.P.O.L.E.\"(s) in your Graveyard.",
         "name": "Des Frog",
         "id": 84451804,
-        "last_legal_print": "CRV"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)",
@@ -3612,13 +3534,13 @@
         "last_legal_print": "RP02"
     },
     {
-        "last_legal_text": "Descarta 1 carta \"Héroe del Destino\". Roba 2 cartas.",
+        "last_legal_text": "Discard 1 \"Destiny Hero\" card. Draw 2 cards.",
         "name": "Destiny Draw",
         "id": 45809008,
         "last_legal_print": "DP05"
     },
     {
-        "last_legal_text": "\"Héroe del Destino - Sangre\" + \"Héroe del Destino - Dogma\"\nUna Invocación de Fusión de esta carta sólo se puede realizar con los Monstruos Material de Fusión nombrados arriba. Una vez por turno, puedes destruir 1 monstruo que controle tu adversario e infligirle daño a tu adversario igual al ATK del monstruo. Si activas este efecto, no puedes realizar tu Battle Phase este turno. Durante tu Standby Phase, si esta carta está en tu Cementerio puedes retirar del juego 1 carta \"Héroe del Destino\" en tu Cementerio para Invocar de Modo Especial a esta carta.",
+        "last_legal_text": "\"Destiny Hero - Plasma\" + \"Destiny Hero - Dogma\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect, you cannot conduct your Battle Phase this turn. During your Standby Phase, if this card is in your Graveyard you can remove from play 1 \"Destiny Hero\" card from your Graveyard to Special Summon this card.",
         "name": "Destiny End Dragoon",
         "id": 76263644,
         "last_legal_print": "LODT"
@@ -3666,7 +3588,7 @@
         "last_legal_print": "WC07"
     },
     {
-        "last_legal_text": "Esta carta no puede ser Invocada de Modo Normal o Colocada. Esta carta no puede ser Invocada de Modo Especial excepto Sacrificando 3 monstruos en tu Campo entre los que por lo menos 1 incluya \"Héroe del Destino\" en su nombre. Si esta carta es Invocada de Modo Especial, divide a la mitad los Life Points de tu adversario durante la próxima Standby Phase de tu adversario.",
+        "last_legal_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 3 monsters, including at least 1 \"Destiny Hero\" monster. If this card is Special Summoned, halve your opponent's Life Points during their next Standby Phase.",
         "name": "Destiny HERO - Dogma",
         "id": 17132130,
         "last_legal_print": "DP05"
@@ -3792,7 +3714,7 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Negate the activation of an opponent's Spell Card, Trap Card, or Effect Monster's effect that requires a die roll, and destroy that card.",
+        "last_legal_text": "Negate the activation of an opponent's Spell Card, Trap Card, or Effect Monsters effect that requires a die roll, and destroy that card.",
         "name": "Dice Try!",
         "id": 59905358,
         "last_legal_print": "LODT"
@@ -3816,7 +3738,7 @@
         "last_legal_print": "DCR"
     },
     {
-        "last_legal_text": "Paga 1000 Life Points. Selecciona 1 monstruo Tipo Lanzador de Conjuros de Nivel 7 o superior que controles. Durante este turno, sólo el monstruo seleccionado puede atacar y debe atacar a todos los monstruos que tu adversario controle, una vez a cada uno. Los efectos de los monstruos destruidos al batallarlo no son activados.",
+        "last_legal_text": "Pay 1000 Life Points, then target 1 Level 7 or higher Spellcaster-Type monster you control; this turn, only that monster can attack, and it must attack all monsters your opponent controls, once each. The effects of Effect Monsters destroyed by these attacks do not activate and are negated.",
         "name": "Diffusion Wave-Motion",
         "id": 87880531,
         "last_legal_print": "DPYG"
@@ -3888,7 +3810,7 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "Devuelve 1 monstruo \"Bestia Gladiador\" de tu mano al Deck, niega la activación y efecto de una Carta Mágica y destrúyela.",
+        "last_legal_text": "Return 1 \"Gladiator Beast\" monster from your hand to the Deck, and negate the activation and effect of a Spell Card, and destroy it.",
         "name": "Disarm",
         "id": 26834022,
         "last_legal_print": "GLAS"
@@ -4086,7 +4008,7 @@
         "last_legal_print": "TAEV"
     },
     {
-        "last_legal_text": "Sólo puedes equipar esta carta a \"Dragón Taladro\" o a un monstruo \"Morfotrónico/a\" de Tipo Máquina de Nivel 4 o mayor. Mientras esté equipada:● Durante tu turno: la carta gana 1000 ATK. Si el monstruo ataca, el(los) efecto(s) del monstruo objetivo son negados durante la Battle Phase.● Durante el turno de tu adversario: Tu adversario no puede seleccionar a otro monstruo que no sea el equipado como objetivo de un ataque. Un monstruo de tu adversario que batalle con el monstruo equipado es destruido al final del Damage Step.",
+        "last_legal_text": "Equip only to a \"Power Tool Dragon\" or Level 4 or higher Machine-Type \"Morphtronic\" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.",
         "name": "Double Tool C&D",
         "id": 63730624,
         "last_legal_print": "RGBT"
@@ -4146,12 +4068,6 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Dragon Treasure",
-        "id": 1435851,
-        "last_legal_print": "LOB"
-    },
-    {
         "last_legal_text": "You can only activate this card when you have a face-up Dragon-Type monster on your side of the field. Select and activate 1 of the following effects:\n● Inflict 800 points of damage to your opponent's Life Points.\n● Destroy 1 face-up monster with a DEF of 800 points or less.",
         "name": "Dragon's Gunfire",
         "id": 55991637,
@@ -4194,10 +4110,10 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "When this card is changed from Attack Position to face-up Defense Position, select 1 monster your opponent controls and destroy it.",
+        "last_legal_text": "When this card is changed from Attack Position to Defense Position, destroy 1 monster on your opponent's side of the field.",
         "name": "Dream Clown",
         "id": 13215230,
-        "last_legal_print": "MRD"
+        "last_legal_print": "DB2"
     },
     {
         "last_legal_text": "When this card inflicts Battle Damage to your opponent's Life Points, you can select 1 \"Parasite Paracide\" card from your Deck, shuffle the Deck, and place \"Parasite Paracide\" on top of the Deck.",
@@ -4254,7 +4170,7 @@
         "last_legal_print": "DR3"
     },
     {
-        "last_legal_text": "El nombre de esta carta se trata como \"Des Rana\" mientras esté boca arriba en el Campo. Tu adversario no puede seleccionar a otro monstruo como objetivo de un ataque. Cuando esta carta es mandada del Campo al Cementerio, puedes añadir a tu mano, desde tu Deck o Cementerio, 1 monstruo \"Rana\", exceptuando \"Rana Falsa\".",
+        "last_legal_text": "This card's name is treated as \"Des Frog\" while it is face-up on the field. Your opponent cannot select another monster as an attack target. When this card is sent from the field to the Graveyard, you can add 1 \"Frog\" monster except \"Dupe Frog\" or \"Frog the Jam\" from your Deck or Graveyard to your hand.",
         "name": "Dupe Frog",
         "id": 46239604,
         "last_legal_print": "CRMS"
@@ -4470,7 +4386,7 @@
         "last_legal_print": "DP03"
     },
     {
-        "last_legal_text": "Un Héroe Elemental alado que gira cruzando el cielo y manipula el viento. Su movimiento personal, Rompeplumas, le propina a la vileza un golpe desde el cielo.",
+        "last_legal_text": "A winged Elemental Hero who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
         "name": "Elemental HERO Avian",
         "id": 21844576,
         "last_legal_print": "TLM"
@@ -4488,7 +4404,7 @@
         "last_legal_print": "YSDJ"
     },
     {
-        "last_legal_text": "Una manipuladora de las llamas que es la única mujer entre los Héroe Elementales. Su Llamarada quema la vileza.",
+        "last_legal_text": "A flame manipulator who is the only woman among the Elemental Heroes. Her Burstfire burns away villainy.",
         "name": "Elemental HERO Burstinatrix",
         "id": 58932615,
         "last_legal_print": "TLM"
@@ -4500,16 +4416,16 @@
         "last_legal_print": "FOTB"
     },
     {
-        "last_legal_text": "\"Héroe Elemental Neos\" + \"Pantera Oscura Neo Espacial\" + \"Musgo Refulgente Neo Espacial\"\nEsta carta sólo puede ser Invocada de Modo Especial desde tu Deck de Fusión devolviendo al Deck las cartas citadas arriba; tú debes controlarlas (no usas \"Polimerización\"). Durante la End Phase, devuelve esta carta al Deck de Fusión y después Coloca todos los monstruos boca arriba que estén en ese momento en el Campo. Una vez por turno, puedes lanzar una moneda 3 veces y aplicar el efecto apropiado: ●3 Caras: Destruye todos los monstruos que controle tu adversario. ●2 Caras: Este turno, los efectos de todos los monstruos boca arriba de tu adversario son negados. ●1 Cara: Devuelve todos los monstruos que tú controles a la mano de sus respectivos dueños.",
+        "last_legal_text": "\"Elemental Hero Neos\" + \"Neo-Spacian Dark Panther\" + \"Neo-Spacian Glow Moss\"\nThis card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use \"Polymerization\".) During the End Phase, return this card to the Fusion Deck then Set all face-up monsters currently on the field. Once per turn, you can toss a coin 3 times and apply the appropriate effect: ● 3 Heads: Destroy all monsters your opponent controls. ● 2 Heads: This turn, the effects of all face-up monsters your opponent controls are negated. ● 1 Head: Return all monsters you control to their owner's hand.",
         "name": "Elemental HERO Chaos Neos",
         "id": 17032740,
         "last_legal_print": "GLAS"
     },
     {
-        "last_legal_text": "Un Héroe Elemental con un cuerpo de arcilla hecho para resistir. Protegerá a sus colegas Héroes Elementales a cualquier precio.",
+        "last_legal_text": "An Elemental Hero with a clay body built-to-last. He'll preserve his Elemental Hero colleagues at any cost.",
         "name": "Elemental HERO Clayman",
         "id": 84327329,
-        "last_legal_print": "TLM"
+        "last_legal_print": "DP1"
     },
     {
         "last_legal_text": "\"Elemental Hero Neos\" + \"Neo-Spacian Dark Panther\"\nThis card can only be Special Summoned from your Fusion Deck by returning the above cards from your side of the field to the Deck. (You do not use \"Polymerization\".) You can select 1 face-up Effect Monster on the field if 1 is not already selected by this card. While you control this face-up card, the selected monster's effect is negated until it is removed from the field. (You can select up to 1 monster at a time with this effect.) This card returns to the Fusion Deck during the End Phase.",
@@ -4536,10 +4452,10 @@
         "last_legal_print": "MDP2"
     },
     {
-        "last_legal_text": "\"Héroe Elemental Avian\" + \"Héroe Elemental Burstinatrix\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Cuando esta carta destruye un monstruo como resultado de una batalla y lo manda al Cementerio, inflige daño a los Life Points de tu adversario igual al ATK del monstruo destruido.",
+        "last_legal_text": "\"Elemental Hero Avian\" + \"Elemental Hero Burstinatrix\"\nThis monster cannot be Special Summoned except by Fusion Summon. When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the ATK of the destroyed monster.",
         "name": "Elemental HERO Flame Wingman",
         "id": 35809262,
-        "last_legal_print": "TLM"
+        "last_legal_print": "EHC1"
     },
     {
         "last_legal_text": "\"Elemental Hero Neos\" + \"Neo-Spacian Flare Scarab\"\nThis card can only be Special Summoned from your Fusion Deck by returning the above cards from your side of the field to the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each Spell and Trap Card on the field. This card returns to the Fusion Deck during the End Phase.",
@@ -4632,7 +4548,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "¡Un nuevo Héroe Elemental ha llegado desde el Neo Espacio! Cuando inicia una Fusión de Contacto con un Neo Espacial sus desconocidos poderes son liberados.",
+        "last_legal_text": "A new Elemental Hero has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.",
         "name": "Elemental HERO Neos",
         "id": 89943723,
         "last_legal_print": "POTD"
@@ -4692,10 +4608,10 @@
         "last_legal_print": "DP05"
     },
     {
-        "last_legal_text": "Un Héroe Elemental y un guerrero de la luz hábil con muchos tipos de armamento. Su Llamarada Resplandeciente corta el camino de la vileza.",
+        "last_legal_text": "An Elemental Hero and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
         "name": "Elemental HERO Sparkman",
         "id": 20721928,
-        "last_legal_print": "TLM"
+        "last_legal_print": "DR3"
     },
     {
         "last_legal_text": "\"Elemental Hero Burstinatrix\" + \"Elemental Hero Bubbleman\"\nThis monster cannot be Special Summoned except by Fusion Summon. When this card destroys a monster as a result of battle and sends it to the Graveyard, increase your Life Points by the ATK of the destroyed monster.",
@@ -4728,10 +4644,10 @@
         "last_legal_print": "PP02"
     },
     {
-        "last_legal_text": "\"Héroe Elemental Sparkman\" + \"Héroe Elemental Clayman\"\nEste monstruo no puede ser Invocado mediante una Invocación Especial excepto mediante una Invocación de Fusión. Descarta 1 carta de tu mano para seleccionar y destruir 1 monstruo boca arriba en el Campo con un ATK original inferior al ATK de esta carta. Sólo puedes usar este efecto una vez por turno, durante tu Main Phase.",
+        "last_legal_text": "\"Elemental Hero Sparkman\" + \"Elemental Hero Clayman\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, during your Main Phase, by discarding 1 card from your hand, select and destroy 1 face-up monster on the field with an original ATK that is less than the ATK of this card.",
         "name": "Elemental HERO Thunder Giant",
         "id": 61204971,
-        "last_legal_print": "TLM"
+        "last_legal_print": "EHC2"
     },
     {
         "last_legal_text": "When this card inflicts Battle Damage to your opponent, you can Special Summon 1 of your removed from play \"Elemental Hero\" monsters.",
@@ -5106,10 +5022,10 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "Switch the opponent's Spell Card effect that specifically designates 1 monster as a target to another correctly targeted monster.",
+        "last_legal_text": "Switch the opponent's Spell Card effect that designates 1 monster as a target to another correct target.",
         "name": "Fairy's Hand Mirror",
         "id": 17653779,
-        "last_legal_print": "SRL"
+        "last_legal_print": "DB1"
     },
     {
         "last_legal_text": "Special Summon 1 \"Elemental Hero\" monster from your hand. This turn, that monster cannot attack, and returns to its owner's hand during the End Phase.",
@@ -5164,12 +5080,6 @@
         "name": "Fatal Abacus",
         "id": 77910045,
         "last_legal_print": "DB2"
-    },
-    {
-        "last_legal_text": "Send 1 Special Summoned monster on either side of the field to the Graveyard and Special Summon 1 Level 4 or lower Normal Monster from your hand.",
-        "name": "Faustian Bargain",
-        "id": 68396778,
-        "last_legal_print": "SOVR"
     },
     {
         "last_legal_text": "When this card is sent from your hand or Deck to your Graveyard by your opponent's card effect, Special Summon this card to the field.",
@@ -5352,7 +5262,7 @@
         "last_legal_print": "LODT"
     },
     {
-        "last_legal_text": "Retira del juego 1 monstruo de FUEGO en tu Cementerio que tenga 200 DEF. Niega la activación de una Carta Mágica o de Trampa, y destrúyela.",
+        "last_legal_text": "Remove from play 1 FIRE monster in your Graveyard with 200 DEF. Negate the activation of a Spell or Trap Card, and destroy it.",
         "name": "Flamvell Counter",
         "id": 60718396,
         "last_legal_print": "ANPR"
@@ -5412,12 +5322,6 @@
         "last_legal_print": "TAEV"
     },
     {
-        "last_legal_text": "Una vez por turno, puedes voltear esta carta a Posición de Defensa boca abajo. Cuando esta carta es volteada boca arriba, puedes devolver a su mano una cantidad de monstruos que controle tu adversario igual a la cantidad de monstruos \"Rana\" que controles.",
-        "name": "Flip Flop Frog",
-        "id": 81278754,
-        "last_legal_print": "CRMS"
-    },
-    {
         "last_legal_text": "\"Silver Fang\" + \"Darkworld Thorns\"",
         "name": "Flower Wolf",
         "id": 95952802,
@@ -5442,7 +5346,7 @@
         "last_legal_print": "LODT"
     },
     {
-        "last_legal_text": "A Winged Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+        "last_legal_text": "Increase the ATK and DEF of a Winged Beast-Type monster equipped with this card by 300 points.",
         "name": "Follow Wind",
         "id": 98252586,
         "last_legal_print": "LOB"
@@ -5706,12 +5610,6 @@
         "last_legal_print": "GLD2"
     },
     {
-        "last_legal_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta esté boca arriba en el Campo, puedes Invocarla de Modo Normal para que se la trate como un Monstruo de Efecto con el siguiente efecto:\n●Una vez por turno puedes retirar del juego 1 monstruo en tu Cementerio para destruir 1 monstruo boca arriba.",
-        "name": "Future Samurai",
-        "id": 90642597,
-        "last_legal_print": "PTDN"
-    },
-    {
         "last_legal_text": "When a monster is Normal Summoned, remove from play that monster. During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.",
         "name": "Future Visions",
         "id": 87902575,
@@ -5973,7 +5871,7 @@
         "last_legal_text": "Increase your Life Points by 300 points for each monster on the field.",
         "name": "Gift of The Mystical Elf",
         "id": 98299011,
-        "last_legal_print": "PSV"
+        "last_legal_print": "SKE"
     },
     {
         "last_legal_text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 EARTH monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard, destroy all Spell and Trap Cards on the field.",
@@ -5982,7 +5880,7 @@
         "last_legal_print": "CP04"
     },
     {
-        "last_legal_text": "Esta carta gana 200 ATK cada vez que un monstruo de Tipo Planta es mandado al Cementerio.",
+        "last_legal_text": "This card gains 200 ATK each time a Plant-Type monster is sent to the Graveyard.",
         "name": "Gigantic Cephalotus",
         "id": 82116191,
         "last_legal_print": "CSOC"
@@ -6114,7 +6012,7 @@
         "last_legal_print": "TP7"
     },
     {
-        "last_legal_text": "Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. La posición de batalla de esta carta no se puede cambiar hasta el final de tu próximo turno, expecto por el efecto de una carta.",
+        "last_legal_text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
         "name": "Goblin Elite Attack Force",
         "id": 85306040,
         "last_legal_print": "CRV"
@@ -6240,10 +6138,10 @@
         "last_legal_print": "DR3"
     },
     {
-        "last_legal_text": "Cuando recibes daño de una carta que controle tu adversario mientras no controlas ninguna carta, puedes Invocar de Modo Especial esta carta de tu mano. Después activa el efecto apropiado, basándote en el tipo de daño:\n● Daño de Batalla: Invoca de Modo Especial 1 \"Ficha de Emisario de la Muerte\" (Tipo Hada/LUZ/Nivel 7/ATK ?/DEF ?). El ATK y DEF de esta Ficha son iguales a la cantidad de Daño de Batalla que recibiste.\n● Daño de Efecto: Inflige daño a tu adversario igual a la cantidad de daño que recibiste.",
+        "last_legal_text": "When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. Then activate the appropriate effect, based on the type of damage:\n● Battle Damage: Special Summon 1 \"Emissary of Darkness Token\" (Fairy-Type/LIGHT/Level 7/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.\n● Effect Damage: Inflict damage to your opponent equal to the amount of damage you took.",
         "name": "Gorz the Emissary of Darkness",
         "id": 44330098,
-        "last_legal_print": "RP02"
+        "last_legal_print": "DLG1"
     },
     {
         "last_legal_text": "Activate only if there is a face-up \"X-Saber\" monster(s) on the field. Select 2 \"X-Saber\" monsters in either player's Graveyard(s). Special Summon those monsters to your side of the field.",
@@ -6252,10 +6150,10 @@
         "last_legal_print": "5DS2"
     },
     {
-        "last_legal_text": "1 Cantante + 1 o más monstruos que no sean Cantantes\nCuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio, puedes Invocar de Modo Especial a ese monstruo en tu Campo, en Posición de Defensa boca arriba.",
+        "last_legal_text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.",
         "name": "Goyo Guardian",
         "id": 7391448,
-        "last_legal_print": "TDGS"
+        "last_legal_print": "DT01"
     },
     {
         "last_legal_text": "Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes.",
@@ -6354,10 +6252,10 @@
         "last_legal_print": "LOB"
     },
     {
-        "last_legal_text": "Si \"Necrovalle\" está en el Campo cuando esta carta declare un ataque, puedes cambiar la posición de batalla de 1 monstruo boca arriba que controle tu adversario.",
+        "last_legal_text": "If \"Necrovalley\" is on the field when this card declares an attack, you can change the battle position of 1 face-up monster your opponent controls.",
         "name": "Gravekeeper's Assailant",
         "id": 25262697,
-        "last_legal_print": "TU02"
+        "last_legal_print": "RP02"
     },
     {
         "last_legal_text": "You can Tribute 1 \"Gravekeeper's\" monster, except \"Gravekeeper's Cannonholder\", to inflict 700 damage to your opponent.",
@@ -6402,10 +6300,10 @@
         "last_legal_print": "ABPF"
     },
     {
-        "last_legal_text": "Unless your opponent sends 1 card from the top of his/her Deck to the Graveyard, he/she cannot declare an attack.",
+        "last_legal_text": "Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.",
         "name": "Gravekeeper's Servant",
         "id": 16762927,
-        "last_legal_print": "SRL"
+        "last_legal_print": "RP01"
     },
     {
         "last_legal_text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
@@ -6738,7 +6636,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "Puedes mandar 1 monstruo de Nivel 8 o mayor desde tu mano al Cementerio e Invocar esta carta de Modo Especial. Si Sacrificas esta carta en la Invocación por Sacrificio de un monstruo de Nivel 7 o mayor, ese monstruo no puede ser destruido por efectos de cartas.",
+        "last_legal_text": "You can send 1 Level 8 or higher monster from your hand to the Graveyard and Special Summon this card. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.",
         "name": "Hardened Armed Dragon",
         "id": 68473226,
         "last_legal_print": "RGBT"
@@ -6774,10 +6672,10 @@
         "last_legal_print": "FOTB"
     },
     {
-        "last_legal_text": "Destruye todas las Cartas Mágicas y de Trampa en el Campo de tu adversario.",
+        "last_legal_text": "Destroys all of your opponent's Spell and Trap Cards on the field.",
         "name": "Harpie's Feather Duster",
         "id": 18144507,
-        "last_legal_print": "TFK"
+        "last_legal_print": "WC4"
     },
     {
         "last_legal_text": "This card gains effects based on the number of \"Harpie\" monsters you control (other than \"Harpie's Pet Baby Dragon\" and \"Harpie's Brother\"). ● 1+: Your opponent cannot select \"Harpie\" monsters you control as attack targets (except \"Harpie's Pet Baby Dragon\" and \"Harpie's Brother\"). ● 2+: Double the original ATK and DEF of this card. ● 3+: Once per turn, you can destroy 1 card your opponent controls.",
@@ -6966,10 +6864,10 @@
         "last_legal_print": "GX1"
     },
     {
-        "last_legal_text": "Solo puedes activar esta carta cuando un monstruo en tu Campo es destruido como resultado de una batalla y mandado al Cementerio. Invoca mediante una Invocación Especial de tu mano o Deck 1 monstruo de Nivel 4 o inferior que incluya \"Héroe Elemental\" en su nombre.",
+        "last_legal_text": "Activate only when a monster on your side of the field is destroyed by battle and sent to the Graveyard. Special Summon 1 Level 4 or lower \"Elemental Hero\" monster from your hand or Deck.",
         "name": "Hero Signal",
         "id": 22020907,
-        "last_legal_print": "TLM"
+        "last_legal_print": "DR3"
     },
     {
         "last_legal_text": "You can only activate this card during the Battle Phase of a turn in which a monster on your side of the field that included \"Elemental Hero\" in its card name was destroyed as a result of battle. Make the Battle Damage from 1 of your opponent's monsters 0.",
@@ -7254,12 +7152,6 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "El monstruo boca arriba \"Bestia Gladiador\" objetivo que controlas gana 500 ATK hasta la End Phase. Mientras esta carta esté en tu Cementerio, puedes devolver 2 monstuos \"Bestia Gladiador\" desde tu Cementerio a tu Deck para devolver esta carta a tu mano.",
-        "name": "Indomitable Gladiator Beast",
-        "id": 55136228,
-        "last_legal_print": "CRMS"
-    },
-    {
         "last_legal_text": "If this card attacks, it is destroyed and sent to the Graveyard during the End Phase. When this card is destroyed and sent to the Graveyard from the field, you can Special Summon this card by Tributing 1 monster.",
         "name": "Infernal Dragon",
         "id": 47754278,
@@ -7320,7 +7212,7 @@
         "last_legal_print": "SDMM"
     },
     {
-        "last_legal_text": "There is no limit to the number of cards in players' hands.",
+        "last_legal_text": "There is no limit to the number of cards in players hands.",
         "name": "Infinite Cards",
         "id": 94163677,
         "last_legal_print": "RP02"
@@ -7398,22 +7290,16 @@
         "last_legal_print": "DPKB"
     },
     {
-        "last_legal_text": "Mientras esta carta permanezca boca arriba en el Campo, tu adversario no puede activar Cartas Mágicas de Juego Rápido.",
+        "last_legal_text": "While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards.",
         "name": "Invader of Darkness",
         "id": 56647086,
-        "last_legal_print": "IOC"
+        "last_legal_print": "DR2"
     },
     {
         "last_legal_text": "FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.",
         "name": "Invader of the Throne",
         "id": 3056267,
         "last_legal_print": "SRL"
-    },
-    {
-        "last_legal_text": "Switch the ATK and DEF of all face-up Effect Monsters on the field.",
-        "name": "Inverse Universe",
-        "id": 79161790,
-        "last_legal_print": "ABPF"
     },
     {
         "last_legal_text": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
@@ -7440,12 +7326,6 @@
         "last_legal_print": "DR2"
     },
     {
-        "last_legal_text": "Face-up Machine-Type monsters you control with 1200 or less ATK cannot be destroyed by the effects of Trap Cards. When this face-up card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 LIGHT Machine-Type monster from your Deck to your hand.",
-        "name": "Jade Knight",
-        "id": 44364207,
-        "last_legal_print": "CSOC"
-    },
-    {
         "last_legal_text": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.",
         "name": "Jain, Lightsworn Paladin",
         "id": 96235275,
@@ -7464,13 +7344,13 @@
         "last_legal_print": "RP02"
     },
     {
-        "last_legal_text": "Roba 1 carta de tu Deck.",
+        "last_legal_text": "Draw 1 card from your Deck.",
         "name": "Jar of Greed",
         "id": 83968380,
-        "last_legal_print": "YSD"
+        "last_legal_print": "LON"
     },
     {
-        "last_legal_text": "Durante la End Phase, si una(s) carta(s) fue(ron) mandada(s) desde tu Deck al Cementerio por efecto de una carta \"Luminosa/o\" este turno, inflige 500 puntos de daño a tu adversario y gana 500 Life Points.",
+        "last_legal_text": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn, inflict 500 damage to your opponent and gain 500 Life Points.",
         "name": "Jenis, Lightsworn Mender",
         "id": 83725008,
         "last_legal_print": "TDGS"
@@ -7698,7 +7578,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Esta carta no puede ser invocada de Modo Especial. Esta carta es devuelta a la mano de su propietario durante la End Phase del turno en el que fue Invocada de Modo Normal o Volteada boca arriba. Cuando esta carta es Invocada de Modo Normal o volteada boca arriba, puedes Invocar de Modo Especial desde tu Cementerio 1 monstruo de Nivel 1. Cuando esta carta es retirada del Campo, retira del juego a ese monstruo.",
+        "last_legal_text": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can Special Summon 1 Level 1 monster from your Graveyard. When this card is removed from the field, remove from play that monster.",
         "name": "Kinka-byo",
         "id": 45452224,
         "last_legal_print": "TDGS"
@@ -7746,7 +7626,7 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Durante cada una de tus End Phases, destruye esta carta a menos que mandes 1 \"Núcleo de Hierro de Koa'ki Meiru\" desde tu mano al Cementerio o muestres 1 Carta de Trampa normal en tu mano. Si esta carta batalla con un monstruo de LUZ u OSCURIDAD, el efecto de ese monstruo es negado durante la Battle Phase, mientras esta carta permanezca en el Campo.",
+        "last_legal_text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Normal Trap Card in your hand. If this card battles a LIGHT or DARK monster, that monster's effect(s) is negated during the Battle Phase, while this card remains on the field.",
         "name": "Koa'ki Meiru Powerhand",
         "id": 19642889,
         "last_legal_print": "RGBT"
@@ -7806,7 +7686,7 @@
         "last_legal_print": "RP02"
     },
     {
-        "last_legal_text": "Un genio de la lámpara que está al servicio de su amo.",
+        "last_legal_text": "A genie of the lamp that is at the beck and call of its master.",
         "name": "La Jinn the Mystical Genie of the Lamp",
         "id": 97590747,
         "last_legal_print": "DPKB"
@@ -7828,12 +7708,6 @@
         "name": "Larvae Moth",
         "id": 87756343,
         "last_legal_print": "MRD"
-    },
-    {
-        "last_legal_text": "An Insect-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Laser Cannon Armor",
-        "id": 77007920,
-        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "Destroy all face-up Spellcaster-Type monsters on the field.",
@@ -7866,18 +7740,6 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Un brazo izquierdo prohibido sellado mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.",
-        "name": "Left Arm of the Forbidden One",
-        "id": 7902349,
-        "last_legal_print": "DB1"
-    },
-    {
-        "last_legal_text": "Una pierna izquierda prohibida sellada mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.",
-        "name": "Left Leg of the Forbidden One",
-        "id": 44519536,
-        "last_legal_print": "DB1"
-    },
-    {
         "last_legal_text": "Select and activate 1 of these effects:\n● Draw 1 card.\n● Activate only when a Spirit monster is face-up on your opponent's side of the field. Draw 2 cards.",
         "name": "Legacy of Yata-Garasu",
         "id": 30461781,
@@ -7906,18 +7768,6 @@
         "name": "Legendary Jujitsu Master",
         "id": 25773409,
         "last_legal_print": "CP07"
-    },
-    {
-        "last_legal_text": "A Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Legendary Sword",
-        "id": 61854111,
-        "last_legal_print": "LOB"
-    },
-    {
-        "last_legal_text": "This monster may attack your opponent's Life Points directly.",
-        "name": "Leghul",
-        "id": 12472242,
-        "last_legal_print": "MRD"
     },
     {
         "last_legal_text": "You can remove from play 2 WATER monsters from your Graveyard to Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
@@ -8064,7 +7914,7 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Sólo puedes equipar esta carta a un monstruo \"Luminoso/a\", que gana 700 ATK. Cuando esta carta es mandada desde tu Deck a tu Cementerio puedes equiparla a 1 monstruo \"Luminoso/a\" que controles.",
+        "last_legal_text": "Equip only to a \"Lightsworn\" monster. It gains 700 ATK. When this card is sent from your Deck to your Graveyard, you can equip it to 1 \"Lightsworn\" monster you control.",
         "name": "Lightsworn Sabre",
         "id": 30502181,
         "last_legal_print": "TDGS"
@@ -8136,7 +7986,7 @@
         "last_legal_print": "DR3"
     },
     {
-        "last_legal_text": "When an Effect Monster's effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.",
+        "last_legal_text": "When an Effect Monsters effect that requires only 1 coin toss is activated, call Heads or Tails. If you call it right, draw 1 card.",
         "name": "Lucky Chance",
         "id": 96012004,
         "last_legal_print": "LODT"
@@ -8166,12 +8016,6 @@
         "last_legal_print": "SRL"
     },
     {
-        "last_legal_text": "Un dragón muy bello cubierto de zafiro. No le gustan las luchas, pero tiene un poder de ataque increiblemente alto.",
-        "name": "Luster Dragon",
-        "id": 11091375,
-        "last_legal_print": "TP5"
-    },
-    {
         "last_legal_text": "You can change this card from face-up Attack Position to face-up Defense Position and destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card's battle position cannot be changed until the end of your next turn, except with a card effect. During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.",
         "name": "Lyla, Lightsworn Sorceress",
         "id": 22624373,
@@ -8190,7 +8034,7 @@
         "last_legal_print": "SDMM"
     },
     {
-        "last_legal_text": "You can discard Machine-Type monster(s) whose total Levels equal 8 or more to Special Summon this card from your hand or Graveyard. When this card is destroyed by battle and sent to the Graveyard, select and destroy 1 card your opponent controls. When this face-up card you control is targeted by an opponent's Effect Monster's effect, look at your opponent's hand and discard 1 card from their hand.",
+        "last_legal_text": "You can discard Machine-Type monster(s) whose total Levels equal 8 or more to Special Summon this card from your hand or Graveyard. When this card is destroyed by battle and sent to the Graveyard, select and destroy 1 card your opponent controls. When this face-up card you control is targeted by an opponent's Effect Monsters effect, look at your opponent's hand and discard 1 card from their hand.",
         "name": "Machina Fortress",
         "id": 5556499,
         "last_legal_print": "SDMM"
@@ -8224,12 +8068,6 @@
         "name": "Machine Assembly Line",
         "id": 25518020,
         "last_legal_print": "ABPF"
-    },
-    {
-        "last_legal_text": "A Machine-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Machine Conversion Factory",
-        "id": 25769732,
-        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "Target 1 Machine-Type monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that monster.",
@@ -8550,7 +8388,7 @@
         "last_legal_print": "CRMS"
     },
     {
-        "last_legal_text": "Durante el turno en el que esta carta es mandada al Cementerio, el propietario de esta carta puede activar Cartas de Trampa de su mano.",
+        "last_legal_text": "During the turn this card is sent to the Graveyard, the owner of this card can activate Trap Card(s) from his/her hand.",
         "name": "Makyura the Destructor",
         "id": 21593977,
         "last_legal_print": "DB1"
@@ -8598,10 +8436,10 @@
         "last_legal_print": "DR3"
     },
     {
-        "last_legal_text": "VOLTEO: Destruye 1 monstruo en el campo (sin importar su posición).",
+        "last_legal_text": "FLIP: Destroys 1 monster on the field (regardless of position).",
         "name": "Man-Eater Bug",
         "id": 54652250,
-        "last_legal_print": "SYE"
+        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "By tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
@@ -8928,10 +8766,10 @@
         "last_legal_print": "GLD2"
     },
     {
-        "last_legal_text": "Declara 1 nombre de carta. Si tu adversario tiene la(s) carta(s) declarada(s) en su mano, descártala(s) (todas) al Cementerio. Si no la tiene, descartas 1 carta de tu mano al azar.",
+        "last_legal_text": "Declare 1 card name. If that card is in your opponent's hand, they must discard all copies of it in their hand. If it is not, you randomly discard 1 card.",
         "name": "Mind Crush",
         "id": 15800838,
-        "last_legal_print": "DR3"
+        "last_legal_print": "CP08"
     },
     {
         "last_legal_text": "Pay 500 Life Points. Look at your opponent's hand and all Set cards on their side of the field.",
@@ -9192,19 +9030,13 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Return 2 WATER monsters from your hand to your Deck and draw 3 cards.",
-        "name": "Moray of Greed",
-        "id": 22123627,
-        "last_legal_print": "SOVR"
-    },
-    {
         "last_legal_text": "FLIP: Both players discard their hands, then draw 5 cards.",
         "name": "Morphing Jar",
         "id": 33508719,
         "last_legal_print": "RP02"
     },
     {
-        "last_legal_text": "Devuelve desde tu mano al Deck 1 carta \"Morfotrónica/o\". Destruye una carta en el Campo, y roba 1 carta.",
+        "last_legal_text": "Return 1 \"Morphtronic\" card from your hand to the Deck. Destroy 1 card on the field, and draw 1 card.",
         "name": "Morphtronic Accelerator",
         "id": 44424095,
         "last_legal_print": "CSOC"
@@ -9348,22 +9180,16 @@
         "last_legal_print": "SRL"
     },
     {
-        "last_legal_text": "A Beast-Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Mystical Moon",
-        "id": 36607978,
-        "last_legal_print": "LOB"
-    },
-    {
         "last_legal_text": "You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).",
         "name": "Mystical Sheep #1",
         "id": 30451366,
         "last_legal_print": "TP5"
     },
     {
-        "last_legal_text": "Destruye 1 Carta Mágica o de Trampa en el Campo.",
+        "last_legal_text": "Destroy 1 Spell or Trap Card on the field.",
         "name": "Mystical Space Typhoon",
         "id": 5318639,
-        "last_legal_print": "SD10"
+        "last_legal_print": "MRL"
     },
     {
         "last_legal_text": "Tribute 1 monster. Select either its ATK or DEF and gain that many Life Points.",
@@ -9528,22 +9354,10 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "FLIP: Select 1 monster on your opponent's side of the field and destroy it. When this card is sent directly from your hand to the Graveyard, return 1 Flip Effect Monster from your Graveyard to your hand.",
-        "name": "Night Assailant",
-        "id": 16226786,
-        "last_legal_print": "AST"
-    },
-    {
         "last_legal_text": "When this card is Special Summoned, you can remove from play up to 2 cards from your opponent's Graveyard.",
         "name": "Night's End Sorcerer",
         "id": 36107810,
         "last_legal_print": "CSOC"
-    },
-    {
-        "last_legal_text": "Tribute 1 monster. Special Summon 3 \"Nightmare Archfiend Tokens\" (Fiend-Type/DARK/Level 6/ATK 2000/DEF 2000) to your opponent's side of the field in Attack Position. When a \"Nightmare Archfiend Token\" is destroyed, its controller takes 800 damage.",
-        "name": "Nightmare Archfiends",
-        "id": 42956963,
-        "last_legal_print": "CRMS"
     },
     {
         "last_legal_text": "This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field.",
@@ -9678,7 +9492,7 @@
         "last_legal_print": "JUMP"
     },
     {
-        "last_legal_text": "Esta carta no puede ser destruida como resultado de una batalla con un monstruo con 1900 ATK o más.",
+        "last_legal_text": "This card cannot be destroyed by battle with a monster that has 1900 or more ATK.",
         "name": "Obnoxious Celtic Guard",
         "id": 52077741,
         "last_legal_print": "RP02"
@@ -9726,7 +9540,7 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Una vez por turno puedes enviar 1 carta \"Ojama\" desde tu mano al Cementerio para Invocar de Modo Especial desde tu Cementerio 1 monstruo \"Ojama\". Mientras controles un monstruo \"Ojama\" boca arriba, intercambia los ATK y DEF originales de todos los monstruos del Campo.",
+        "last_legal_text": "Once per turn, you can send 1 \"Ojama\" card from your hand to the Graveyard to Special Summon 1 \"Ojama\" monster from your Graveyard. While you control a face-up \"Ojama\" monster, switch the original ATK and DEF of all monsters on the field.",
         "name": "Ojama Country",
         "id": 90011152,
         "last_legal_print": "RGBT"
@@ -9738,7 +9552,7 @@
         "last_legal_print": "DR2"
     },
     {
-        "last_legal_text": "\"Ojama Verde\" + \"Ojama Amarillo\" + \"Ojama Negro\"\nSelecciona hasta 3 de las Zonas de Cartas de Monstruo de tu adversario. Mientras esta carta esté boca arriba en el Campo, las zonas seleccionadas no pueden ser usadas.",
+        "last_legal_text": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
         "name": "Ojama King",
         "id": 90140980,
         "last_legal_print": "DR3"
@@ -9756,10 +9570,10 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/2 Stars/ATK 0/DEF 1000) in Defense Position on your opponent's side of the field. The tokens cannot be Tributed for a Tribute Summon. When an \"Ojama Token\" is destroyed, the controller takes 300 points of damage.",
+        "last_legal_text": "Special Summon 3 \"Ojama Tokens\" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) in Defense Position on your opponent's side of the field. The tokens cannot be Tributed for a Tribute Summon. When an \"Ojama Token\" is destroyed, the controller of that token takes 300 points of damage.",
         "name": "Ojama Trio",
         "id": 29843091,
-        "last_legal_print": "DCR"
+        "last_legal_print": "DP2"
     },
     {
         "last_legal_text": "When this card is sent from the hand or the field to the Graveyard, add 1 each of \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Deck to your hand.",
@@ -9768,10 +9582,10 @@
         "last_legal_print": "EEN"
     },
     {
-        "last_legal_text": "Selecciona 1 \"Rey Ojama\" boca arriba en el Campo. Destruye todos los monstruos en el Campo que incluyan \"Ojama\" en su nombre, exceptuando el \"Rey Ojama\" seleccionado. Aumenta el ATK del \"Rey Ojama\" seleccionado en 1000 puntos por cada monstruo destruido.",
+        "last_legal_text": "Select 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
         "name": "Ojamuscle",
         "id": 98259197,
-        "last_legal_print": "DP2"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "FLIP: Destroy 1 monster your opponent controls.",
@@ -9790,12 +9604,6 @@
         "name": "One for One",
         "id": 2295440,
         "last_legal_print": "RGBT"
-    },
-    {
-        "last_legal_text": "This monster may attack your opponent's Life Points directly.",
-        "name": "Ooguchi",
-        "id": 58861941,
-        "last_legal_print": "MRD"
     },
     {
         "last_legal_text": "Inflict 800 damage to your opponent.",
@@ -9948,7 +9756,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Devuelve 1 monstruo \"Bestia Gladiador\" de tu mano al Deck, niega la activación y efecto de una Carta de Trampa y destrúyela.",
+        "last_legal_text": "Return 1 \"Gladiator Beast\" monster from your hand to the Deck, and negate the activation and effect of a Trap Card, and destroy it.",
         "name": "Parry",
         "id": 52228131,
         "last_legal_print": "GLAS"
@@ -9972,7 +9780,7 @@
         "last_legal_print": "DB1"
     },
     {
-        "last_legal_text": "FLIP: You can return up to 2 Monster Cards from the field to their owners<nowiki>'</nowiki> hands.",
+        "last_legal_text": "FLIP: You can return up to 2 Monster Cards from the field to their owners hands.",
         "name": "Penguin Soldier",
         "id": 93920745,
         "last_legal_print": "DL09"
@@ -10068,7 +9876,7 @@
         "last_legal_print": "GLD2"
     },
     {
-        "last_legal_text": "Sacrifica 2 \"Ciber Dragón\" en tu Campo para activar esta carta. Invoca mediante una Invocación Especial 1 \"Cíber Dragón Láser\" de tu mano, Deck o Cementerio.",
+        "last_legal_text": "Tribute 2 \"Cyber Dragons\". Special Summon 1 \"Cyber Laser Dragon\" from your hand, Deck, or Graveyard.",
         "name": "Photon Generator Unit",
         "id": 66607691,
         "last_legal_print": "DP04"
@@ -10134,7 +9942,7 @@
         "last_legal_print": "CSOC"
     },
     {
-        "last_legal_text": "Durante la End Phase de tu turno, si no atacaste, tu adversario mande al Cementerio, desde la parte superior de su Deck, tantas cartas como la cantidad de monstruos \"Cadena de Hierro\" boca arriba que controles.",
+        "last_legal_text": "During the End Phase of your turn, if you did not attack, your opponent sends cards equal to the number of face-up \"Iron Chain\" monsters you control from the top of their Deck to the Graveyard.",
         "name": "Poison Chain",
         "id": 33302407,
         "last_legal_print": "CSOC"
@@ -10176,12 +9984,6 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Select 2 cards from the Graveyard(s), and shuffle them into their owner's Deck(s). After activation, remove this card from play instead of sending it to the Graveyard. You can only activate 1 \"Pot of Benevolence\" per turn.",
-        "name": "Pot of Benevolence",
-        "id": 51790181,
-        "last_legal_print": "ABPF"
-    },
-    {
         "last_legal_text": "Return 2 cards from your hand to your Deck. Then shuffle your Deck.",
         "name": "Pot of Generosity",
         "id": 70278545,
@@ -10204,12 +10006,6 @@
         "name": "Power Capsule",
         "id": 54289683,
         "last_legal_print": "DR04"
-    },
-    {
-        "last_legal_text": "An Aqua-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Power of Kaishin",
-        "id": 77027445,
-        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick 1 of them at random, and add it to your hand. Return the remaining cards to your Deck. If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead.",
@@ -10392,12 +10188,6 @@
         "last_legal_print": "CSOC"
     },
     {
-        "last_legal_text": "This monster may attack your opponent's Life Points directly.",
-        "name": "Queen's Double",
-        "id": 5901497,
-        "last_legal_print": "MRD"
-    },
-    {
         "last_legal_text": "When activating this card, your opponent cannot check cards in the Graveyard. Your opponent calls the name of the first monster found at the bottom of your Graveyard. If he/she calls it right, the monster is removed from play. If he/she calls it wrong, the monster is Special Summoned to your side of the field.",
         "name": "Question",
         "id": 38723936,
@@ -10476,7 +10266,7 @@
         "last_legal_print": "GLAS"
     },
     {
-        "last_legal_text": "Esta carta no puede ser Invocada de Modo Normal ni Colocada. Esta carta no puede ser Invocada de Modo Especial excepto retirando del juego 7 monstruos de OSCURIDAD en tu Cementerio. Puedes retirar del juego todos los demás monstruos de OSCURIDAD en tu Cementerio y que controles en el Campo para que esta carta gane 500 ATK por cada carta retirada.",
+        "last_legal_text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 7 DARK monsters with different names from your Graveyard. You can remove from play all other DARK monsters you control and from your Graveyard to have this card gain 500 ATK for each card removed.",
         "name": "Rainbow Dark Dragon",
         "id": 79407975,
         "last_legal_print": "PTDN"
@@ -10494,7 +10284,7 @@
         "last_legal_print": "MRD"
     },
     {
-        "last_legal_text": "Sólo puedes activar esta carta si tienes 7 cartas \"Bestia de Cristal\" con nombres diferentes en tu Campo o Cementerio. Invoca de Modo Especial, desde tu Deck o Cementerio, 1 \"Dragón Arco Iris\" o un \"Dragón Arco Iris Oscuro\", ignorando las condiciones de Invocación.",
+        "last_legal_text": "Activate only if you have 7 \"Crystal Beast\" cards with different names on the field or in your Graveyard. Special Summon 1 \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" from your Deck or Graveyard, ignoring the Summoning conditions.",
         "name": "Rainbow Gravity",
         "id": 63806265,
         "last_legal_print": "LODT"
@@ -10506,7 +10296,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "\"Héroe Elemental Neos\" + \"Dragón Arco Iris\" + \"Dragón Arco Iris Oscuro\"\nUna Invocación de Fusión de esta carta sólo puede realizarse utilizando los Monstruos Material de Fusión mencionados arriba. Una vez por turno puedes activar uno de los siguientes efectos: ● Manda 1 monstruo que controles al Cementerio para devolver al Deck todos los monstruos que controle tu adversario. ● Manda 1 Carta Mágica o de Trampa que controles al Cementerio para devolver al Deck todas las Cartas Mágicas y de Trampa que controle tu adversario. ● Manda 1 carta de la parte superior de tu Deck al Cementerio para devolver al Deck todas las cartas en el Cementerio de tu adversario.",
+        "last_legal_text": "\"Elemental Hero Neos\" + \"Rainbow Dragon\" or \"Rainbow Dark Dragon\"\nThis card cannot be Special Summoned, except by Fusion Summon with the above Fusion Material Monsters. Once per turn, you can activate 1 of the following effects: ● Send 1 monster you control to the Graveyard to return all monsters your opponent controls to the Deck. ● Send 1 Spell or Trap Card you control to the Graveyard to return all Spell and Trap Cards your opponent controls to the Deck. ● Send 1 card from the top of your Deck to the Graveyard to return all cards in your opponent's Graveyard to the Deck.",
         "name": "Rainbow Neos",
         "id": 86346643,
         "last_legal_print": "PTDN"
@@ -10518,7 +10308,7 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "A Dinosaur-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+        "last_legal_text": "Increase the ATK and DEF of a Dinosaur-Type monster equipped with this card by 300 points.",
         "name": "Raise Body Heat",
         "id": 51267887,
         "last_legal_print": "LOB"
@@ -10740,12 +10530,6 @@
         "last_legal_print": "DT01"
     },
     {
-        "last_legal_text": "Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, remove from play all monsters that were Special Summoned by this effect.",
-        "name": "Rekindling",
-        "id": 74845897,
-        "last_legal_print": "ANPR"
-    },
-    {
         "last_legal_text": "Select 1 of your removed from play Rock-Type monsters, and Special Summon it. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
         "name": "Release from Stone",
         "id": 26956670,
@@ -10848,7 +10632,7 @@
         "last_legal_print": "DB1"
     },
     {
-        "last_legal_text": "Invoca de modo Especial 1 Monstruo \"Seis Samuráis\" de tu Cementerio. Destrúyelo al final de este turno.",
+        "last_legal_text": "Special Summon 1 \"Six Samurai\" monster from your Graveyard. Destroy it at the end of this turn.",
         "name": "Return of the Six Samurai",
         "id": 46874015,
         "last_legal_print": "STON"
@@ -10906,18 +10690,6 @@
         "name": "Ribbon of Rebirth",
         "id": 37534148,
         "last_legal_print": "LODT"
-    },
-    {
-        "last_legal_text": "Un brazo derecho prohibido sellado mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.",
-        "name": "Right Arm of the Forbidden One",
-        "id": 70903634,
-        "last_legal_print": "DB1"
-    },
-    {
-        "last_legal_text": "Una pierna derecha prohibida sellada mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.",
-        "name": "Right Leg of the Forbidden One",
-        "id": 8124921,
-        "last_legal_print": "DB1"
     },
     {
         "last_legal_text": "FLIP: Each player discards 1 card. A monster that destroys this card by battle loses 500 ATK and DEF.",
@@ -11310,7 +11082,7 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "Cuando Invocas esta carta de Modo Normal o Especial, puedes seleccionar y mandar 1 monstruo de Tipo Máquina desde tu Deck al Cementerio. Una vez por turno puedes devolver al Deck, desde tu Cementerio, 2 monstruos de TIERRA de Tipo Máquina de Nivel 4 para robar 1 carta.",
+        "last_legal_text": "When this card is Normal or Special Summoned: You can send 1 Machine-Type monster from your Deck to the Graveyard. Once per turn: You can shuffle 2 Level 4 EARTH Machine-Type monsters from your Graveyard into the Deck; draw 1 card.",
         "name": "Scrap Recycler",
         "id": 4334811,
         "last_legal_print": "SDMM"
@@ -11382,7 +11154,7 @@
         "last_legal_print": "SD09"
     },
     {
-        "last_legal_text": "You can only activate this card while your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both players<nowiki>'</nowiki> Life Points become 0.",
+        "last_legal_text": "You can only activate this card while your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both players Life Points become 0.",
         "name": "Self-Destruct Button",
         "id": 57585212,
         "last_legal_print": "DR2"
@@ -11544,12 +11316,6 @@
         "last_legal_print": "SRL"
     },
     {
-        "last_legal_text": "When 1 Synchro Monster is Special Summoned to your opponent's side of the field, you can remove from play this card in the Graveyard to destroy that monster.",
-        "name": "Shiny Black \"C\"",
-        "id": 94081496,
-        "last_legal_print": "ANPR"
-    },
-    {
         "last_legal_text": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.",
         "name": "Shire, Lightsworn Spirit",
         "id": 2420921,
@@ -11634,12 +11400,6 @@
         "last_legal_print": "DR2"
     },
     {
-        "last_legal_text": "A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Silver Bow and Arrow",
-        "id": 1557499,
-        "last_legal_print": "LOB"
-    },
-    {
         "last_legal_text": "Equip only to a Level 8 or higher Dragon-Type Synchro Monster. Up to twice per turn, if it would be destroyed by battle, it is not destroyed. If it would be destroyed by a card effect, you can destroy this card instead.",
         "name": "Silver Wing",
         "id": 25231813,
@@ -11664,10 +11424,10 @@
         "last_legal_print": "PTDN"
     },
     {
-        "last_legal_text": "Durante tu Standby Phase, si esta carta está en el Cementerio, puedes devolverla a tu mano.",
+        "last_legal_text": "During your Standby Phase, if a \"Sinister Serpent\" exists in your Graveyard, you can return the \"Sinister Serpent\" to your hand.",
         "name": "Sinister Serpent",
         "id": 8131171,
-        "last_legal_print": "TFK"
+        "last_legal_print": "SDD"
     },
     {
         "last_legal_text": "FLIP: Draw 1 card.",
@@ -11736,10 +11496,10 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "Cuando un monstruo que incluya \"Héroe Elemental\" en su nombre ataca, si su ATK es menor al ATK del objetivo del ataque, aumenta el ATK del monstruo atacante en 1000 puntos, sólo durante el cálculo de daño.",
+        "last_legal_text": "When an \"Elemental Hero\" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.",
         "name": "Skyscraper",
         "id": 63035430,
-        "last_legal_print": "GLD2"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "Once per turn, during your Main Phase, you can Special Summon 1 \"Elemental Hero\" monster from your Graveyard that was destroyed by battle. (Only this card's controller can use this effect.)",
@@ -11940,10 +11700,10 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Sólo puedes equipar esta carta a \"Héroe Elemental Sparkman\". Durante la Main Phase de tu turno, puedes cambiar la posición de batalla de 1 monstruo boca arriba. Después de usar este efecto 3 veces, destruye esta carta.",
+        "last_legal_text": "Equip only to \"Elemental Hero Sparkman\". During your Main Phase, you can change the battle position of 1 face-up monster. After you use this effect 3 times, destroy this card.",
         "name": "Spark Blaster",
         "id": 97362768,
-        "last_legal_print": "CRV"
+        "last_legal_print": "DR04"
     },
     {
         "last_legal_text": "Inflict 200 points of damage to your opponent's Life Points.",
@@ -12048,7 +11808,7 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Sólo puedes activar esta carta cuando tu adversario activa una Carta Mágica Continua. Niega la activación y el efecto de la carta y destrúyela.",
+        "last_legal_text": "Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.",
         "name": "Spell-Stopping Statute",
         "id": 10069180,
         "last_legal_print": "DR3"
@@ -12078,10 +11838,10 @@
         "last_legal_print": "RGBT"
     },
     {
-        "last_legal_text": "Cuando \"Gaia el Caballero Feroz\", \"Gaia el Campeón Dragón\" o \"Caballero del Viento Oscuro de Gaia\" en tu Campo ataca un monstruo en Posición de Defensa, si el ATK de esas cartas es superior a la DEF del monstruo en Posición de Defensa, inflige la diferencia como daño de batalla a los Life Points de tu adversario. Si \"Gaia el Campeón Dragón\" inflige daño de batalla con este efecto, roba 2 cartas de tu Deck y descarta 1 carta de tu mano.",
+        "last_legal_text": "When a \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\" or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, if the ATK of that card is higher than the DEF of the Defense Position monster, inflict the difference as Battle Damage to your opponent. If \"Gaia the Dragon Champion\" inflicts Battle Damage with this effect, draw 2 cards and discard 1 card.",
         "name": "Spiral Spear Strike",
         "id": 49328340,
-        "last_legal_print": "FET"
+        "last_legal_print": "DR3"
     },
     {
         "last_legal_text": "While you control a monster(s), you take no Battle Damage.",
@@ -12216,10 +11976,10 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "\"La Doncella Compasiva\" + \"Marie la Caida\"",
+        "last_legal_text": "\"The Forgiving Maiden\" + \"Marie the Fallen One\"",
         "name": "St. Joan",
         "id": 21175632,
-        "last_legal_print": "DB1"
+        "last_legal_print": "LON"
     },
     {
         "last_legal_text": "You can only activate this card when you have a face-up Dragon-Type monster on your side of the field. Destroy 1 Spell or Trap Card on the field and inflict 500 points of damage to the controller of that card.",
@@ -12360,12 +12120,6 @@
         "last_legal_print": "DR2"
     },
     {
-        "last_legal_text": "Reduce en 1 los Niveles de todos los monstruos boca arriba que controla tu adversario.",
-        "name": "Stygian Dirge",
-        "id": 81489939,
-        "last_legal_print": "SOVR"
-    },
-    {
         "last_legal_text": "When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
         "name": "Stygian Security",
         "id": 50732780,
@@ -12384,7 +12138,7 @@
         "last_legal_print": "POTD"
     },
     {
-        "last_legal_text": "Puedes Sacrificar 1 monstruo para Invocar de Modo Especial 1 monstruo \"Rana\" de tu Deck. Los monstruos \"Rana\" no pueden ser destruidos en batalla.",
+        "last_legal_text": "You can Tribute 1 monster to Special Summon 1 \"Frog\" monster from your Deck, except \"Frog the Jam\". \"Frog\" monsters, except \"Frog the Jam\", cannot be destroyed by battle.",
         "name": "Substitoad",
         "id": 20663556,
         "last_legal_print": "LODT"
@@ -12456,7 +12210,7 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "Cuando esta carta es mandada desde el Campo al Cementerio por efecto de una carta, puedes Invocar de Modo Especial, desde tu Deck, 1 \"Oráculo del Sol\". Duplica el ATK de ese monstruo, y devuélvelo a la mano de su dueño durante la End Phase de ese turno.",
+        "last_legal_text": "When this card is sent from the field to the Graveyard by a card effect, you can Special Summon 1 \"Oracle of the Sun\" from your Deck. The ATK of that monster is doubled, and it returns to the owner's hand during the End Phase of that turn.",
         "name": "Supay",
         "id": 78552773,
         "last_legal_print": "ABPF"
@@ -12516,7 +12270,7 @@
         "last_legal_print": "POTD"
     },
     {
-        "last_legal_text": "Esta carta sólo puede ser Invocada por Ritual con la Carta Mágica de Ritual \"Ritual del León de Guerra\".",
+        "last_legal_text": "This card can only be Ritual Summoned with the Ritual Spell Card, \"War-Lion Ritual\".",
         "name": "Super War-Lion",
         "id": 33951077,
         "last_legal_print": "PP02"
@@ -12582,7 +12336,7 @@
         "last_legal_print": "MRD"
     },
     {
-        "last_legal_text": "Puedes descartar 1 monstruo de AGUA para Invocar esta carta de Modo Especial desde tu mano. Cuando Invocas esta carta puedes seleccionar y mandar al Cementerio, desde tu Deck o tu lado del Campo, 1 monstruo de AGUA de Tipo Aqua de Nivel 2 o menor. Una vez por turno puedes devolver a tu mano 1 monstruo que controles para Invocar de Modo Normal 1 monstruo \"Rana\", excepto \"Rana de Intercambio\", además de tu Invocación Normal o Colocación de este turno.",
+        "last_legal_text": "You can discard 1 WATER monster to Special Summon this card from your hand. When this card is Summoned, you can select and send 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. Once per turn, you can return 1 monster you control to your hand to Normal Summon 1 \"Frog\" monster, except \"Swap Frog\" or \"Frog the Jam\", in addition to your Normal Summon or Set this turn.",
         "name": "Swap Frog",
         "id": 9126351,
         "last_legal_print": "SOVR"
@@ -12600,7 +12354,7 @@
         "last_legal_print": "GLD1"
     },
     {
-        "last_legal_text": "Si tienes sólo esta carta en tu mano, puedes Invocarla de Modo Normal sin Sacrificio.",
+        "last_legal_text": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
         "name": "Swift Gaia the Fierce Knight",
         "id": 16589042,
         "last_legal_print": "RP02"
@@ -13104,12 +12858,6 @@
         "last_legal_print": "YSD"
     },
     {
-        "last_legal_text": "When this card is sent to the Graveyard, add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
-        "name": "The White Stone of Legend",
-        "id": 79814787,
-        "last_legal_print": "CSOC"
-    },
-    {
         "last_legal_text": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.",
         "name": "The Wicked Dreadroot",
         "id": 62180201,
@@ -13362,7 +13110,7 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Descarta 1 monstruo Nivel 8. Roba 2 cartas.",
+        "last_legal_text": "Discard 1 Level 8 monster. Draw 2 cards.",
         "name": "Trade-In",
         "id": 38120068,
         "last_legal_print": "SDRL"
@@ -13584,7 +13332,7 @@
         "last_legal_print": "TDGS"
     },
     {
-        "last_legal_text": "Si esta carta es destruida y mandada al Cementerio, esta carta es Invocada de Modo Especial con un ATK y una DEF de 1000 durante la End Phase del turno. Sólo puedes usar este efecto una vez por Duelo.",
+        "last_legal_text": "If this card is destroyed and sent from the field to the Graveyard, Special Summon it during the End Phase of this turn with 1000 ATK and 1000 DEF. You can only use this effect once per Duel.",
         "name": "Twin-Headed Behemoth",
         "id": 43586926,
         "last_legal_print": "SDRL"
@@ -13698,7 +13446,7 @@
         "last_legal_print": "DR1"
     },
     {
-        "last_legal_text": "Paga 500 Life Points para Invocar de modo Normal o Colocar 1 monstruo extra. Sólo puedes activar este efecto durante tu Main Phase o durante la Battle Phase de tu adversario.",
+        "last_legal_text": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
         "name": "Ultimate Offering",
         "id": 80604092,
         "last_legal_print": "SD10"
@@ -13726,12 +13474,6 @@
         "name": "Umiiruka",
         "id": 82999629,
         "last_legal_print": "SRL"
-    },
-    {
-        "last_legal_text": "Esta carta puede atacar directamente a tu adversario. Cuando esta carta ataca directamente con éxito, si controlas un monstruo \"Rana\" que no sea \"Unirana\", puedes destruir 1 Carta Mágica o de Trampa que controle tu adversario.",
-        "name": "Unifrog",
-        "id": 56052205,
-        "last_legal_print": "LODT"
     },
     {
         "last_legal_text": "Select 1 face-up monster you control. During the Battle Phase this turn, that monster gains ATK equal to the total ATK of all other face-up Attack Position monsters you control. This turn, that monster inflicts no Battle Damage to your opponent, and other face-up Attack Position monsters cannot attack.",
@@ -13794,7 +13536,7 @@
         "last_legal_print": "PP02"
     },
     {
-        "last_legal_text": "Este carta no puede ser Invocada de Modo Normal o Colocado. Esta carta sólo puede ser Invocada de Modo Especial Sacrificando \"Alpha el Guerrero Magnético\" de tu mano o tu lado del Campo. Puedes sacrificar esta carta para Invocar de Modo Epsecial \"Alpha el Guerrero Magnético\", \"Beta el Guerrero Magnético\" y \"Gamma el Guerrero Magnético\" desde tu Cementerio.",
+        "last_legal_text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" from your hand or your side of the field. You can Tribute this card to Special Summon \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\", and \"Gamma The Magnet Warrior\" from your Graveyard.",
         "name": "Valkyrion the Magna Warrior",
         "id": 75347539,
         "last_legal_print": "RP02"
@@ -13938,22 +13680,10 @@
         "last_legal_print": "DR04"
     },
     {
-        "last_legal_text": "A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.",
-        "name": "Vile Germs",
-        "id": 39774685,
-        "last_legal_print": "LOB"
-    },
-    {
         "last_legal_text": "The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. As long as this card remains on the field, your opponent cannot attack any Archfiend Monster Card on your side of the field except \"Vilepawn Archfiend\".",
         "name": "Vilepawn Archfiend",
         "id": 73219648,
         "last_legal_print": "DR1"
-    },
-    {
-        "last_legal_text": "Un monstruo de Tipo Zombi equipado con esta carta aumenta su ATK y su DEF en 300 puntos.",
-        "name": "Violet Crystal",
-        "id": 15052462,
-        "last_legal_print": "LOB"
     },
     {
         "last_legal_text": "When this card is destroyed by battle and sent to the Graveyard, add 1 Plant-Type monster with 1500 or less DEF from your Deck to your hand.",
@@ -14100,7 +13830,7 @@
         "last_legal_print": "DB2"
     },
     {
-        "last_legal_text": "Esta carta se usa para Invocar por Ritual a \"Súper León de Guerra\". Además, debes Sacrificar monstruos en tu Campo o  mano cuyos Niveles totales sumen 7 o más.",
+        "last_legal_text": "This card is used to Ritual Summon \"Super War-Lion\". You must also Tribute monsters from the field or your hand whose total Levels equal 7 or more.",
         "name": "War-Lion Ritual",
         "id": 54539105,
         "last_legal_print": "PP02"
@@ -14122,12 +13852,6 @@
         "name": "Warrior of Atlantis",
         "id": 43797906,
         "last_legal_print": "FOTB"
-    },
-    {
-        "last_legal_text": "Un guerrero vagabundo que busca el santuario donde pueda ganar el poder de los Archlords. Para huir de la tentación de los malvados demonios, lucha solo día a día.",
-        "name": "Warrior of Zera",
-        "id": 66073051,
-        "last_legal_print": "YSD"
     },
     {
         "last_legal_text": "Increases the ATK and DEF of all Dinosaur, Zombie, and Rock-Type monsters by 200 points.",
@@ -14154,7 +13878,7 @@
         "last_legal_print": "ANPR"
     },
     {
-        "last_legal_text": "Puedes pagar 700 Life Points sólo una vez por turno durante tu Standby Phase para activar el efecto de esta carta. Intercambia el ATK y la DEF de 1 monstruo de Tipo Guerrero o de Tipo Máquina en tu Campo hasta el final de la próxima End Phase de tu adversario. Cuando esta carta es destruida, el efecto es negado.",
+        "last_legal_text": "Once during each of your Standby Phases: You can pay 700 Life Points, then target 1 Warrior or Machine-Type monster you control; switch the current ATK and DEF of that target until the end of your opponent's next turn.",
         "name": "Weapon Change",
         "id": 10035717,
         "last_legal_print": "SD10"
@@ -14286,7 +14010,7 @@
         "last_legal_print": "FOTB"
     },
     {
-        "last_legal_text": "Puedes devolver a la parte superior del Deck de tu adversario un monstruo boca arriba en Posición de Ataque en el Campo de tu adversario que esta carta destruye como resultado de una batalla lo manda al Cementerio.",
+        "last_legal_text": "You can return your opponent's face-up Attack Position monster, that this card destroyed and sent to the Graveyard as a result of battle, to the top of your opponent's Deck.",
         "name": "Winged Sage Falcos",
         "id": 87523462,
         "last_legal_print": "DR1"
@@ -14364,7 +14088,7 @@
         "last_legal_print": "DT01"
     },
     {
-        "last_legal_text": "Selecciona 1 \"Héroe Elemental Neos\" boca arriba que controles. Devuélvelo al Deck y destruye todas las cartas en el Campo.",
+        "last_legal_text": "Select 1 face-up \"Elemental Hero Neos\" you control. Return it to the Deck and destroy all cards on the field.",
         "name": "Wrath of Neos",
         "id": 52098461,
         "last_legal_print": "HA01"
